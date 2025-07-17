@@ -1,5 +1,3 @@
-Polityczna dyskusja pod kościołem - doskonały pomysł! To da:
-
 Konkretny przykład bańek w konflikcie (pro-life vs pro-choice)
 Różne poziomy - religijny, prawny, biologiczny, etyczny
 Lem może obserwować struktury - jak każda strona ma własny system walidacji

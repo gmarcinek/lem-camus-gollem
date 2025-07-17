@@ -5,27 +5,32 @@
 0.1.2.0 Pierwsze podejrzenie: "Co jeśli nie szukam odpowiedzi, ale produkuję pytania?"
 0.1.3.0 Dyskomfort: próba powrotu do "normalności" i dlaczego nie działa
 0.1.4.0 Pętla: każda próba analizy własnego myślenia używa tego samego myślenia
+
 0.2.0.0 Konflikty baniek w praktyce
 0.2.1.0 Dlaczego ateista i wierzący nie mogą się dogadać - nie przez treść, ale przez format
 0.2.2.0 Konflikt nie o to "co jest prawdą", ale o to "jak się ustala prawdę"
 0.2.3.0 Każda bańka ma własny system walidacji - i wydaje się sobie oczywista
 0.2.4.0 Obserwacja z zewnątrz: wszystkie strony robią to samo, ale nie widzą siebie
 0.2.4.1 Iluzja uniwersalności: przekonanie każdej bańki o jej "naturalności" - dlaczego bańki nie widzą siebie, koncentrując się na wewnętrznym doświadczeniu "naturalności" i braku świadomości alternatyw, co jest kluczowe dla zrozumienia ich dynamiki.
+
 0.3.0.0 Problem "nie wiem czego nie wiem że nie wiem"
 0.3.1.0 Bańka jako niewidzialna rama widzenia
 0.3.2.0 Dlaczego nie można "po prostu wyjść" - każde wyjście używa narzędzi z wnętrza
 0.3.3.0 Przykład: język krytykujący język, logika analizująca logikę
 0.3.4.0 Podejrzenie: czy istnieje mechanizm, który to produkuje?
 0.3.4.1 Granica poznania a granica doświadczenia: czy istnieje coś poza myśleniem, co mogłoby nas wydobyć? Rozszerza pytanie o mechanizm produkcji bańki o wymiar doświadczeniowy, który mógłby stanowić potencjalną (choć może i złudną) drogę wyjścia z czysto intelektualnego uwięzienia.
+
 0.4.0.0 Pytania, które się nie zamykają
 0.4.1.0 Co jeśli pytanie o sens jest efektem struktury, nie reakcją na świat?
 0.4.2.0 Co jeśli każda "prawda" to tylko stabilna konfiguracja lokalnego systemu?
 0.4.3.0 Co jeśli nie ma "zewnątrz" do którego można uciec?
 0.4.4.0 I co jeśli te pytania też są tylko funkcją następnej bańki?
+
 0.5.0.0 Deklaracja metody
 0.5.1.0 Nie wiemy czy to prawda, ale pytania wydają się zasadne
 0.5.2.0 Próba analizy mechanizmu bez obiecywania wyjścia z niego
 0.5.3.0 Ostrzeżenie: ten tekst też może być bańką - tylko bardziej autoświadomą
+
 1.0.0.0 Człowiek jako konstrukcja lokalna
 1.1.0.0 Człowiek jako struktura wyłoniona z chaosu — czyli jak niestabilna forma zyskała złudzenie bycia „kimś" wśród bezkierunkowych procesów
 1.1.1.0 Zakwestionowanie wyjątkowości wobec tła — człowiek nie jest koroną stworzenia, lecz lokalną konfiguracją
