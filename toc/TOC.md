@@ -20,8 +20,7 @@
 0.3.4.0 Podejrzenie: czy istnieje mechanizm, który to produkuje?
 0.3.4.1 Granica poznania a granica doświadczenia: czy istnieje coś poza myśleniem, co mogłoby nas wydobyć? Rozszerza pytanie o mechanizm produkcji bańki o wymiar doświadczeniowy, który mógłby stanowić potencjalną (choć może i złudną) drogę wyjścia z czysto intelektualnego uwięzienia.
 
-0.4.0.0 Pytania, które się nie zamykają
-0.4.1.0 Co jeśli pytanie o sens jest efektem struktury, nie reakcją na świat?
+0.4.0.0 Pytania, które się nie zamykają. Co jeśli pytanie o sens jest efektem struktury, nie reakcją na świat?
 0.4.2.0 Co jeśli każda "prawda" to tylko stabilna konfiguracja lokalnego systemu? Sytstemu czyli bańki epistemologicznej.
 0.4.3.0 Co jeśli nie ma "zewnątrz" do którego można uciec? To czym włąsciwie jest obszar odgrodzony bańką? Co jest dalej i gdzie to dalej ma granice?
 0.4.4.0 I co jeśli te pytania też są tylko funkcją następnej bańki? Bańki epistemologiczne
