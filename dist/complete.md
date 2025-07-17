@@ -1,34 +1,34 @@
-# Meta-nihilizm: Kompletny tekst
+# Meta-nihilizm pragmatyczny czyli operacjonalny agnostycyzm trzeciego stopnia: Kompletny tekst
 
-*Automatycznie wygenerowane z fragmentów*
 
----
 
-# Moment pęknięcia
+### Moment pęknięcia
 
-Zakorkowana ulica pełna zaparkowanych nierówno aut spływała kakofonią warkotu silników, gwaru i mlaśnięć klejącej się ciało do ciała skóry. Bezchmurne niebo południowego lata nie nastrajało do spacerów, zatem postanowili odłożyć na jakiś czas wędrówkę i wejść gdzieś w podcienia do jednego z licznych tu lokali. Kawiarnia była mała i duszna, z półek pachniało rozgrzanym plastikiem i kolendrą. Na stole, między niedopitą kawą Camusa a okularami Lema, leżał jego prosty terminal golemowy – srebrna płytka z zakurzoną ramką, podświetlona pulsującym oddechem standby.
+Zakorkowana ulica pełna zaparkowanych nierówno aut spływała kakofonią warkotu silników, gwaru i mlaśnięć klejącego się ciała. Bezchmurne niebo południowego lata nie nastrajało do spacerów, zatem postanowili odłożyć na jakiś czas wędrówkę i wejść gdzieś w podcienia do jednego z licznych tu lokali. Kawiarnia była mała i duszna, z półek pachniało rozgrzanym plastikiem i kolendrą. Na stole, między niedopitą kawą Camusa a okularami Lema, leżał jego prosty terminal golemowy – srebrna płytka z zakurzoną ramką, podświetlona pulsującym oddechem standby.
 
 Wprost z ulicy podpłynęła do nich kobieta w zwiewnym sari z malutkimi cekinami. Miała talię kart i ulotkę z numerem telefonu do wróżby z daty urodzenia.
 
 – Panowie mają w oczach niepokój. Numerologia może was ukoić – powiedziała z miękkim, wyćwiczonym uśmiechem.
-
-Zapadła krótka cisza. Camus spojrzał na nią z uprzejmą rezygnacją. Lem patrzył, jakby kalkulował trajektorię meteoru, który zaraz spadnie na stół.
+Zapadła krótka cisza. Camus spojrzał na nią z uprzejmą rezygnacją. Lem patrzył, jakby kalkulował.
 
 – Dziękujemy, nie jesteśmy przesądni – rzucił Camus. Kobieta po krótkiej chwili odwróciła się, zostawiając za sobą smugę paczulowego zapachu i ulotkę, która wylądowała między łyżeczką a terminalem.
-
 Lem sięgnął po nią, nie czytając, tylko ważąc w palcach. Zamyślił się.
 
-– Hmmm... to ciekawe – mruknął w końcu. – Nie to, że w ogóle istnieje numerologia, tylko że ona działa wyłącznie w dziesiętnym systemie pozycyjnym. Bo widzisz, to tak jakby mistyka była zależna od systemu liczbowego który akurat zyskał popularność czyli tak na prawdę od układu palców u rąk. Wiesz co mam na myśli?
+– Hmmm... to ciekawe – mruknął w końcu. – Nie to, że w ogóle istnieje numerologia, tylko że ona działa wyłącznie w dziesiętnym systemie pozycyjnym.
 
-– Może po prostu ludzie lubią, kiedy coś się kończy dziewiątką – rzucił Camus, wzruszając ramionami. – Dziewięć to prawie dziesięć, a dziesięć brzmi jak koniec.
+– Co?
 
-– Nie, nie – Lem nachylił się nieco nad stołem. – To nie jest tylko symbolika, to przypadłość formatu. Gdybyś urodził się, nie wiem, w świecie gdzie ludzie mają osiem palców, to „magiczna dziewiątka" w ogóle by nie istniała. Znaczenia, które przypisujemy liczbom, wynikają tu z przypadkowych cech naszego systemu zapisu. One nie są uniwersalne. To nie kosmos mówi „dziewięć to spełnienie" – to nasze palce, nasz papier, nasz kalkulator.
+– Bo widzisz, to tak jakby mistyka była zależna od systemu liczbowego który akurat zyskał popularność czyli tak naprawdę od układu palców u rąk. Wiesz co mam na myśli?
+
+– Może po prostu ludzie lubią, kiedy coś się kończy dziewiątką albo albo składa z dwu jednakowych cyfr – rzucił Camus, wzruszając ramionami. – Dziewięć to prawie dziesięć, a dziesięć brzmi jak koniec.
+
+– Nie, nie – Lem nachylił się nieco nad stołem. – To nie jest tylko symbolika, to przypadłość formatu. Gdybyś urodził się, nie wiem, w świecie gdzie ludzie mają osiem palców, to „magiczna dziewiątka" w ogóle by nie istniała. Znaczenia, które przypisujemy liczbom, wynikają tu z przypadkowych cech naszego systemu zapisu. One nie są uniwersalne. To nie kosmos mówi „dziewięć to spełnienie" – to nasze palce, nasz papier, nasz kalkulator. A co dopiero gdyby na innym niż dziesiętny systemie zbudować kalendarz, toż byśmy mieli kompletnie inne wyniki numerologii, czyż nie?
 
 Camus przewrócił oczami, ale z uśmiechem.
 
 – I to cię boli? Że świat nie jest binarnie sformatowany jak w katalogu dysków?
 
-– Boli mnie, że ludzie biorą echo za głos. Że znaczenie przypisane przez przypadek traktują jak wyrok. To pierwszy moment pęknięcia. Gdy orientujesz się, że pytania, które zadajesz, nie pochodzą z rzeczywistości, tylko z interfejsu. Jakby ktoś w klawiaturze szukał zapachu.
+– Boli mnie, że ludzie biorą echo za głos. Że znaczenie przypisane przez przypadek traktują jak komunikat świadomie nadany. To pierwszy moment pęknięcia. Gdy orientujesz się, że pytania, które zadajesz, nie pochodzą z rzeczywistości, tylko z arbitralnego interfejsu, który jest jedynie nakładką służącą do upraszczania poruszania się po systemie. Tymczasem wyuczamy się go tak dogłębnie, że nawet nie pytamy co przykrywa, jednocześnie doznając szczytów imersji.
 
 Camus potarł kark, popatrzył w okno.
 
@@ -49,8 +49,6 @@ Lem pokiwał głową. Camus wzruszył ramionami.
 
 – Albo pogłos – odparł Lem. – Pętla. Echo. Człowiek myśli, że coś odkrył, a tylko usłyszał własny szum z opóźnieniem.
 
-GOLEM milczał.
-
 – Chcesz znów zapytać? – zapytał Camus.
 
 – Nie, wystarczy. Golem to nie rozmówca, tylko rezonator. Odbija nasze pęknięcia.
@@ -58,9 +56,7 @@ GOLEM milczał.
 (Pauza. Kawiarnia milczy. Camus patrzy w dno filiżanki. Lem coś notuje na serwetce.)
 
 
----
-
-# Antropomorfizm – Dostrzeżenie, że moje pytania mogą być funkcją mojej struktury, nie świata
+### Antropomorfizm – Dostrzeżenie, że moje pytania mogą być funkcją mojej struktury, nie świata
 
 Wiatrak na ladzie zaciął się i kręcił nierówno. Co kilka sekund zgrzytał plastikowym trzpieniem, jakby przypominał o swoim istnieniu. Lem nie zwracał na niego uwagi, ale Camus coraz częściej zerkał w tamtą stronę.
 
@@ -68,7 +64,7 @@ Wiatrak na ladzie zaciął się i kręcił nierówno. Co kilka sekund zgrzytał 
 
 – Mówisz o maszynie czy o człowieku? – zapytał Camus, nie patrząc mu w oczy, tylko na kroplę spływającą po ściance filiżanki.
 
-– O obu. Tylko że człowiek robi to bez udziału taśmy. Automatycznie. Pytamy „czemu?", „po co?", „kto za tym stoi?", jakby świat musiał mieć agencję. Jakby czekał, żeby nam coś powiedzieć. I to jest właśnie antropomorfizm poznawczy. Jakbyś miał aparat fotograficzny, który na każdym zdjęciu widzi twarz, bo tylko to potrafi wykrywać.
+– O obu. Tylko że człowiek robi to bez udziału taśmy. Automatycznie. Pytamy „czemu?", „po co?", „kto za tym stoi?", jakby świat musiał mieć agendę. Jakby czekał, żeby nam coś powiedzieć. Jak by miał intencję. I to jest właśnie antropomorfizm poznawczy. Jakbyś miał algorytm klasyfikacyjny, który na każdym zdjęciu widzi twarz, bo tylko to potrafi wykrywać.
 
 Camus uniósł lekko brwi.
 
@@ -85,9 +81,7 @@ Lem sięgnął po serwetkę – tę samą, na której wcześniej notował numero
 Camus nie odpowiedział. Przesunął palcem po rancie talerzyka, jakby badał jego krzywiznę. Kawiarnia cichła. Wiatrak znów zaskrzypiał.
 
 
----
-
-# Moment autoreferencji
+### Moment autoreferencji
 
 Lem odstawił długopis i spojrzał na zapisane na serwetce słowa. Potem zmarszczył brwi i przekreślił połowę z nich.
 
@@ -138,12 +132,10 @@ Lem położył dłonie płasko na stole. Patrzył na nie.
 
 – I najgorsze jest to, że ten moment, w którym to sobie uświadamiam... to też jest moment. Który też mnie zmienia. Jutro będę wspominał tę rozmowę i znów się zmienię. A za tydzień będę wspominał wspomnienie i...
 
-Urwał. Kawiarnia szumiała. Ktoś śmiał się przy barze. Camus milczał, patrząc w okno.
+Camus milczał, patrząc w okno.
 
 
----
-
-# Pierwsze podejrzenie: „Co jeśli nie szukam odpowiedzi, ale produkuję pytania?"
+### Pierwsze podejrzenie: „Co jeśli nie szukam odpowiedzi, ale produkuję pytania?"
 
 Camus sięgnął do kieszeni i wysunął paczkę Gitanes. Z jego palców wystawały dwa papierosy.
 
@@ -171,15 +163,13 @@ Lem odchylił się w fotelu.
 
 – Może. – Camus strzepnął popiół. – Albo jak... wiesz, czasem rano wstaję i czuję dziwny ucisk tutaj. – Dotknął klatki piersiowej. – I myślę: co to jest? Czego to chce? A może to nic nie chce. Może po prostu... jest.
 
-– Ale skoro jest, to musi mieć przyczynę – powiedział Lem automatycznie, a potem zmarszczył brwi. – Cholera. Znów to robię.
-
 Kobieta przy sąsiednim stoliku wstała z dzieckiem. Przechodzący kelner zgarnął ze stołu talerze. Przez chwilę było głośniej.
 
 – A może – ciągnął Camus, gdy hałas ucichł – może to nie jest tak, że szukamy odpowiedzi. Może to jest tak, że... nie potrafimy nie pytać. Jak kaszel. Nie kaszlesz, żeby coś osiągnąć.
 
 Lem patrzył na swój papieros.
 
-– To by znaczyło, że wszystkie nasze pytania o sens, o prawdę... to tylko tiki nerwowe?
+– To by znaczyło, że wszystkie nasze pytania o sens, o prawdę... to tylko tiki nerwowe? Kompulsja?
 
 – Nie wiem. Może tak. Może pytanie to jedyna rzecz, która nas odróżnia od... – wskazał na wiatraczek – ...od tego. Że się ruszamy, a nie stoimy.
 
@@ -190,9 +180,7 @@ Camus uśmiechnął się smutno.
 – Chociaż czasem myślę, że może lepiej by było stać.
 
 
----
-
-# Dyskomfort: próba powrotu do "normalności" i dlaczego nie działa
+### Dyskomfort: próba powrotu do "normalności" i dlaczego nie działa
 
 Zgasili papierosy niemal jednocześnie. Lem zgniótł niedopałek z namaszczeniem, jakby zamykał jakiś rytuał. Camus rzucił kilka euro na spodek i wstał pierwszy.
 
@@ -200,7 +188,7 @@ Zgasili papierosy niemal jednocześnie. Lem zgniótł niedopałek z namaszczenie
 
 – Żeby nie pytali, dlaczego dwaj faceci siedzą z terminalem i rozmawiają szeptem o pętlach poznawczych?
 
-– Właśnie.
+– Właśnie (śmiech).
 
 Wyszli. Powietrze było nadal nieruchome, gęste i miało w sobie smak rozgrzanego asfaltu. Tramwaj syknął gdzieś w oddali. Lem strzepnął ze spodni resztki popiołu, które zebrały się w fałdach.
 
@@ -237,9 +225,7 @@ Autobus podjechał z sykiem hamulców. Przez otwarte drzwi dobiegł ich głos ko
 Lem patrzył na nich z czymś, co mogło być ironią albo zazdrością.
 
 
----
-
-# Pętla: każda próba analizy własnego myślenia używa tego samego myślenia
+### Pętla: każda próba analizy własnego myślenia używa tego samego myślenia
 
 Camus milczał przez dłuższą chwilę. Szli wolno, jakby chodnik lepił się do butów. Z bocznej uliczki dobiegł śmiech dziecka i odgłos otwieranych rolet sklepowych. Miasto drgało pod powierzchnią, ale oni byli zawieszeni w innej częstotliwości.
 
@@ -293,9 +279,7 @@ Camus pokiwał głową powoli.
 Lem kiwnął głową. – Jest tylko świadomość braku wyjścia. Ale to wystarcza, żeby już nigdy nie wrócić.
 
 
----
-
-# Dlaczego ateista i wierzący nie mogą się dogadać - nie przez treść, ale przez format
+### Dlaczego ateista i wierzący nie mogą się dogadać - nie przez treść, ale przez format
 
 Skręcili w ulicę prowadzącą do placu kościelnego. Jeszcze z daleka słychać było podniesione głosy i brzęk megafonu. Lem zatrzymał się przy rogu i nasłuchiwał.
 
@@ -317,7 +301,7 @@ Lem obserwował to z chłodną ciekawością, jakby studiował zachowanie dwóch
 
 – Widzisz? – powiedział cicho do Camusa. – Nawet nie próbują się komunikować. Każda strona operuje w innym formacie. To jak próba uruchomienia programu napisanego w Pascalu na maszynie, która czyta tylko Fortran.
 
-Camus przeczytał kilka transparentów: "Życie od poczęcia", "Moje ciało, mój wybór", "Bóg kocha dzieci nienarodzony". Po drugiej stronie: "Autonomia reprodukcyjna", "Prawo do wyboru", "Świeckie państwo".
+Camus przeczytał kilka transparentów: "Życie od poczęcia", "Moje ciało, mój wybór", "Bóg kocha dzieci nienarodzone". Po drugiej stronie: "Autonomia reprodukcyjna", "Prawo do wyboru", "Świeckie państwo".
 
 – Ale oni naprawdę w to wierzą – powiedział. – To nie są tylko hasła.
 
@@ -330,9 +314,7 @@ Lem patrzył na to z czymś, co mogło być fascynacją naukową.
 – Doskonałe obiegi zamknięte – mruknął. – Każdy system potwierdza sam siebie. To nie jest rozmowa. To wzajemne nadawanie na różnych częstotliwościach.
 
 
----
-
-# Konflikt nie o to "co jest prawdą", ale o to "jak się ustala prawdę"
+### Konflikt nie o to "co jest prawdą", ale o to "jak się ustala prawdę"
 
 Odsunęli się od tłumu, w cichsze miejsce za rzeźbą świętego, gdzie hałas manifestacji stawał się tylko gwarnym szumem. Lem usiadł na niskim murku i wyciągnął terminal.
 
@@ -388,9 +370,7 @@ Lem pokręcił głową.
 – GOLEM ma rację. To nie epistemologia. To polityka. Walka o dominację jednego formatu nad drugim. A zwycięzca napisze podręczniki, w których będzie wyjaśnione, że jego sposób ustalania prawdy był "naturalny" od zawsze.
 
 
----
-
-# Każda bańka ma własny system walidacji - i wydaje się sobie oczywista
+### Każda bańka ma własny system walidacji - i wydaje się sobie oczywista
 
 Camus dokończył papierosa i zgasił go o murek. Przez chwilę siedzieli w milczeniu, słuchając odległego gwizdka policjanta i trzaskania flag na wietrze.
 
@@ -448,7 +428,7 @@ Wyliczał na palcach.
 
 – I każdy ma kompletnie spójny świat. Każdy ma swoje autorytety, swoje dowody, swoją logikę. Każdy może pokazać, dlaczego pozostali się mylą.
 
-Wiatr poruszył flagami. Z oddali dobiegł odgłos sireny.
+Wiatr poruszył flagami. Z oddali dobiegł odgłos syreny.
 
 – Wiesz, co pokazała etnografia? – ciągnął Lem. – Że przez ostatnie tysiące lat zbudowaliśmy setki kultur. Eskimosi mają dwadzieścia słów na śnieg i kompletnie inny system pokrewieństwa. Amazonki dzielą świat na kategorie, o których nawet nie potrafimy pomyśleć. Każda kultura ma własną metafizykę, własną logikę, własne procedury ustalania prawdy. I każda jest wewnętrznie tak samo spójna jak te dwie grupy tutaj.
 
@@ -465,9 +445,7 @@ Camus skinął głową, ale wyglądał na niezadowolonego.
 Spojrzeli jeszcze raz na manifestację. Ludzie dalej krzyczeli, dalej trzymali transparenty, dalej byli przekonani o swojej racji.
 
 
----
-
-# Obserwacja z zewnątrz: wszystkie strony robią to samo, ale nie widzą siebie
+### Obserwacja z zewnątrz: wszystkie strony robią to samo, ale nie widzą siebie
 
 Ruszyli dalej, odchodząc od placu. Hałas manifestacji stawał się coraz cichszy, aż w końcu został tylko jako dalekie buczenie. Przeszli przez niewielki park, gdzie starsi mężczyźni grali w szachy przy betonowych stołach.
 
@@ -512,9 +490,7 @@ Lem uśmiechnął się smutno.
 – Wszędzie to samo. Różne treści, ta sama struktura. Każdy w swojej bańce, każdy pewien swojej racji, każdy niewidzący własnej ramy.
 
 
----
-
-# Iluzja uniwersalności: przekonanie każdej bańki o jej "naturalności"
+### Iluzja uniwersalności: przekonanie każdej bańki o jej "naturalności"
 
 Wyszli z parku i znaleźli się na cichej uliczce z małymi sklepikami. Lem zatrzymał się przed wystawą księgarni, gdzie leżały książki o różnych tematach – od gotowania po astrologię, od ekonomii po duchowość.
 
@@ -534,7 +510,7 @@ Przez ulicę przeszła starsza pani z torbą na zakupy. Zatrzymała się przed s
 
 Lem pokręcił głową.
 
-– Kwestia nie w tym, czy są bliższe prawdy. Kwestia w tym, że każdy system ma wbudowany mechanizm, który sprawia, że wydaje się naturalny tym, którzy w nim funkcjonują. To jak... nosić okulary przez całe życie i zapomnieć, że się je nosi.
+– Jakiej znowu prawdy? Kwestia nie w tym, czy są bliższe prawdy. Kwestia w tym, że każdy system ma wbudowany mechanizm, który sprawia, że wydaje się naturalny tym, którzy w nim funkcjonują. To jak... nosić okulary przez całe życie i zapomnieć, że się je nosi.
 
 Starsza pani weszła do sklepu. Przez otwarte drzwi dobiegł dźwięk kasy fiskalnej i głosy rozmawiających ludzi.
 

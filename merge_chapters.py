@@ -71,9 +71,8 @@ def merge_files(files, output_path):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
     with open(output_path, 'w', encoding='utf-8') as output_file:
-        output_file.write("# Meta-nihilizm: Kompletny tekst\n\n")
-        output_file.write("*Automatycznie wygenerowane z fragmentów*\n\n")
-        output_file.write("---\n\n")
+        output_file.write("# Meta-nihilizm pragmatyczny czyli operacjonalny agnostycyzm trzeciego stopnia: Kompletny tekst\n\n")
+        output_file.write("\n\n")
         
         for i, (chapter_num, file_path, filename) in enumerate(files):
             print(f"Przetwarzam: {filename} ({'.'.join(map(str, chapter_num))})")
@@ -89,7 +88,7 @@ def merge_files(files, output_path):
                     
                     # Dodaj separator między rozdziałami (oprócz ostatniego)
                     if i < len(files) - 1:
-                        output_file.write("\n\n---\n\n")
+                        output_file.write("\n\n")
                         
             except Exception as e:
                 print(f"Błąd przy przetwarzaniu {filename}: {e}")
