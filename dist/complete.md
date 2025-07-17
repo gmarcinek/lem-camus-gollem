@@ -564,3 +564,296 @@ Lem schował terminal, wyglądając na zaskoczonego pytaniem.
 – Właśnie o to mi chodzi. – Camus ruszył dalej ulicą. – Może nie ma prawdy absolutnej. Ale są realne konsekwencje. I może to wystarczy.
 
 Przeszli dalej ulicą. Z oddali dobiegł dźwięk dzwonów kościelnych.
+
+
+### Problem "nie wiem czego nie wiem że nie wiem"
+
+Wyszli z parku i skręcili w cichą uliczkę między kamienicami. Camus zatrzymał się przy kiosku, kupił paczkę papierosów i butelkę wody. Lem czekał, opierając się o słupek latarni, obserwując starszą panią, która wyciągała zakupy z siatki przed sklepem spożywczym.
+
+– Widzisz ją? – powiedział, gdy Camus wrócił. – Ona wie, że jutro pójdzie do tego samego sklepu, kupi mleko, chleb, może jakiś jogurt. Wie, że sklep będzie na tym samym miejscu, że pieniądze będą miały tę samą wartość, że sprzedawca ją pozna.
+
+Camus rozerwał celofan i wyciągnął papierosa.
+
+– I co w tym dziwnego?
+
+– To, że ona nie wie, że wie tylko to, co jej pozwala wiedzieć jej sposób widzenia. – Lem wskazał brodą na kobietę. – Dla niej ten sklep to "sklep". Punkt na mapie. Ale gdyby była bakterią, to byłaby wielką strukturą chemiczną. Gdyby była ekonomistą, to byłaby węzłem w sieci dystrybucji. Gdyby była architektem...
+
+– Ale ona nie jest bakterią – przerwał Camus. – Jest kobietą, która kupuje mleko.
+
+– Właśnie. I dlatego świat ma dla niej taki kształt, jaki ma. – Zapalił również, dmuchnął dymem w stronę latarni. – Ale najgorsze nie to, że nie widzi swojej ramy.
+
+Kobieta skończyła pakowanie i powoli odeszła, ciągnąc za sobą wózek na kółkach.
+
+– Najgorsze, że nie podejrzewa, iż w ogóle istnieje coś takiego jak "ramy widzenia". – Lem patrzył za oddalającą się postacią. – Ona nie wie, czego nie wie. I nie wie, że nie wie, że nie wie.
+
+Camus zaciągnął się papierosem.
+
+– A my wiemy?
+
+– My podejrzewamy. Ale czy nasze podejrzenie nie jest funkcją jakiejś innej, jeszcze głębszej ramy? – Lem wzruszył ramionami. – Może to, że w ogóle możemy pomyśleć o "ramach poznawczych", to efekt naszej konkretnej architektury myślenia. Może istnieją byty, dla których nasze pytania o bańki są tak samo śmieszne, jak pytania tej kobiety o molekularną strukturę mleka.
+
+Z daleka dobiegł dźwięk hamujących opon i głośne przekleństwo kierowcy.
+
+Camus milczał przez chwilę, patrząc w stronę, skąd dobiegł hałas.
+
+– Ale to znaczy, że nie można z tego wyjść?
+
+– A dlaczego miałoby się dać? – Lem spojrzał na niego z zaciekawieniem. – Skąd to przekonanie, że musi istnieć wyjście?
+
+
+### Bańka jako niewidzialna rama widzenia
+
+Przez moment stali w milczeniu, wsłuchując się w oddalające się odgłosy kłótni między kierowcą a pieszym.
+
+– Pewnie każdy z nich ma rację – powiedział w końcu Camus.
+
+– Każdy w swojej ramie – mruknął Lem. – Ale żadny nie wie, że w niej jest.
+
+Ruszyli dalej ulicą. Przed sklepem telefonicznym stał mężczyzna w garniturze, głośno rozmawiał przez komórkę.
+
+– ...to nie jest kwestia ceny, rozumiesz? To strategia. Rynek nie toleruje błędów...
+
+Lem zwolnił, słuchając.
+
+– Słyszysz to? – powiedział cicho do Camusa. – Dla niego "rynek" istnieje tak samo jak ta ulica. Ma prawa, mechanizmy, logikę.
+
+Camus wzruszył ramionami.
+
+– Bo to jego sposób patrzenia na świat.
+
+– Nie. – Lem pokręcił głową. – To nie jest "sposób patrzenia". To jest świat. Jedyny świat, jaki zna. Nie wybiera biznesowej ramy widzenia. Jest w niej uwięziony i nie wie o tym.
+
+Przeszli dalej. Mężczyzna dalej gestykulował, mówiąc o kursach i prognozach.
+
+– Gdybyś go zapytał, czy jego kategorie to tylko jedna z możliwych interpretacji rzeczywistości, pewnie by się zdenerwował – ciągnął Lem. – Bo dla niego to nie interpretacja. To rzeczywistość.
+
+– Jak dla nas przestrzeń i czas – powiedział Camus.
+
+– Właśnie. – Lem zatrzymał się przy wystawie księgarni. – Nie myślimy "w przestrzeni". Przestrzeń po prostu jest. Nie używamy czasu. Czas jest warunkiem wszystkiego, co robimy.
+
+W wystawie leżały książki różnych gatunków – psychologia, gotowanie, historia, astrologia, biznes.
+
+– Ale wyobraź sobie byt, który nie ma naszego pojęcia przestrzeni – powiedział Lem, patrząc na odbicie w szybie. – Dla którego nasze "tutaj" i "tam" są tak samo absurdalne jak dla nas astrologia tamtej książki.
+
+Camus spojrzał na wystawę.
+
+– Nie mógłby nas zrozumieć?
+
+– Ani my jego. Ale najgorsze jest to, że nawet nie podejrzewamy możliwości istnienia takiego bytu. – Lem odwrócił się od wystawy. – Nasze kategorie wydają nam się uniwersalne. Naturalne. Oczywiste.
+
+Przeszedł obok nich starszy mężczyzna z gazetą, mamrocząc coś pod nosem o politykach i cenach. Za nim szła kobieta z dzieckiem, które pokazywało palcem na wszystkie mijane samochody, wykrzykując "auto! auto!"
+
+– Widzisz? – mruknął Lem. – Każdy żyje w swojej ramie i uważa ją za rzeczywistość. Biznesmen, emeryt z gazetą, dziecko poznające świat. Wszyscy są przekonani, że ich sposób kategoryzowania świata to jedyny normalny sposób.
+
+Camus zapalił papierosa.
+
+– A my?
+
+– A my myślimy, że jesteśmy ponad tym. Że rozumiemy mechanizm ram. – Lem spojrzał na niego. – Ale może nasze "rozumienie ram" to też tylko rama? Może pytanie o bańki poznawcze to specyficzna ślepa plamka naszej architektury myślenia?
+
+Zatrzymał się na chwilę.
+
+– Może istnieją byty, dla których nasze dywagacje o "ramach poznawczych" brzmią tak samo naiwnie jak dla nas astrologiczne przepowiednie z tej wystawy.
+
+Camus wypuścił dym w powietrze.
+
+– To znaczy, że nie da się z tego wyjść?
+
+– To znaczy, że nawet nie wiem, czego nie wiem o tym, czego nie wiem. – Lem ruszył dalej. – I ty też nie.
+
+
+### Dlaczego nie można "po prostu wyjść" - każde wyjście używa narzędzi z wnętrza
+
+Przeszli przez skrzyżowanie i zatrzymali się przed małym parkiem. Camus usiadł na ławce, Lem stanął obok, opierając się o oparcie.
+
+– Ale przecież z tego można się jakoś wydostać – powiedział Camus, patrząc na bawiące się dzieci. – Skoro wiemy o istnieniu ram, to znaczy, że potrafimy je przekroczyć.
+
+Lem milczał przez chwilę, obserwując dziecko próbujące wspiąć się na drabinkę.
+
+– "Wyjście" z systemu to operacja wewnątrz systemu – powiedział w końcu. – Używasz narzędzi generowanych przez architekturę poznawczą do analizy tej architektury. To pętla sprzężenia zwrotnego.
+
+– Ale nauka, filozofia...
+
+– Algorytmy interpretacyjne. – Lem nie podniósł głosu. – Logika to procedura przetwarzania. Język to interfejs. Obserwacja to filtrowanie sygnałów przez sensoryczną ramę. Każde z tych narzędzi jest produktem systemu, który ma rzekomo diagnozować.
+
+Dziecko zsunęło się z drabinki. Ojciec podniósł je i posadził na szczycie.
+
+– Widzisz? Dziecko potrzebuje impulsu z zewnątrz. Ale twoja rama poznawcza nie ma "zewnątrz". Jest samozamkniętą pętlą generującą iluzję własnej przezroczystości.
+
+Camus zapalił papierosa.
+
+– To brzmi jak...
+
+– Jak diagnoza systemu, która sama jest funkcją systemu? – Lem spojrzał na niego. – Właśnie. Nie ma neutralnej pozycji obserwacyjnej. "Przekroczenie" to symulacja generowana przez mechanizm, który nie może wyjść poza swoją własną strukturę.
+
+– Ale przecież jakąś różnicę to robi, że o tym mówimy.
+
+– Robi. System zyskuje funkcję automonitoringu. Ale automonitoring to wciąż operacja wewnętrzna. – Lem patrzył na karuzele. – To jak próba wyciągnięcia się z własnego kodu źródłowego.
+
+Camus wypuścił dym.
+
+– I nie ma z tego wyjścia?
+
+– "Wyjście" to kategoria systemowa. Potrzeba wyjścia to symptom architektury, która generuje poczucie uwięzienia. – Lem odwrócił się od placu zabaw. – Może istnieją konfiguracje, które tej potrzeby nie produkują.
+
+– A my?
+
+– My jesteśmy uwięzieni w algorytmie, który generuje pytanie o uwięzienie. I każda próba odpowiedzi używa tego samego algorytmu.
+
+
+### Przykład: język krytykujący język, logika analizująca logikę
+
+Zatrzymali się na czerwonym świetle. Camus zgasił papierosa o słupek.
+
+– Powiedziałeś "pętla sprzężenia zwrotnego" – mruknął. – Tym językiem.
+
+Lem milczał.
+
+– I powiedziałeś "algorytm interpretacyjny". I "architektura poznawcza". – Camus spojrzał na niego. – To wszystko to... język.
+
+– Tak.
+
+– Więc krytykujesz język językiem. Analizujesz narzędzie tym samym narzędziem.
+
+Lem skinął głową.
+
+– I co z tego?
+
+– Jesteś w tej samej pętli, którą opisujesz.
+
+Światło zmieniło się na zielone, ale nie ruszyli.
+
+– Mógłbym milczeć – powiedział Lem. – Ale milczenie to też komunikat. Mógłbym nie myśleć, ale to myśl o niemyśleniu. Każdy ruch to ruch w systemie.
+
+– Więc to bez sensu?
+
+– To nie jest kwestia sensu. To kwestia struktury. – Lem ruszył w końcu przez jezdnię. – Diagnoza systemu przez system nie prowadzi do wyjścia z systemu. Prowadzi do opisu warunków uwięzienia.
+
+Przeszli na drugą stronę.
+
+– A po co opisywać więzienie, z którego nie można wyjść?
+
+– Nie wiem. – Lem wzruszył ramionami. – Może to kompulsja. Może systemy poznawcze mają wbudowaną potrzebę autodiagnozy, nawet jeśli jest bezproductywna.
+
+Camus patrzył na przechodzące samochody.
+
+– Jak zęby mądrości. Ewolucyjny relikt, który nic nie daje, ale został.
+
+– Może. Albo może autodiagnoza to forma, którą system przyjmuje, gdy zaczyna się przeciążać. Sygnał awarii.
+
+– A może po prostu nie potrafię przestać gadać – dodał Lem po chwili.
+
+Po raz pierwszy tego dnia brzmiał jak człowiek, a nie jak maszyna analityczna.
+
+
+### Podejrzenie: czy istnieje mechanizm, który to produkuje?
+
+Przeszli dalej w milczeniu. Lem wyglądał na kogoś, kto próbuje sformułować pytanie, które ciągle mu umyka.
+
+– Jest jeszcze jedna rzecz – powiedział w końcu. – Może najgorsza.
+
+Camus spojrzał na niego.
+
+– Ta cała analiza ram, pętli, algorytmów... – Lem zatrzymał się przy witrynie optyka. – To zakłada, że ramy po prostu są. Że istnieją jako dane.
+
+W wystawie stały rzędy okularów na stojakach. Różne kształty, kolory, grubości szkieł.
+
+– Ale skąd się biorą? – mruknął Lem, patrząc na okulary. – Nie mówię o przyczynach historycznych czy ewolucyjnych. Mówię o tym, co je wytwarza. Teraz. W tej chwili.
+
+– Myślisz, że jest jakiś... generator?
+
+– Nie wiem. – Lem dotknął szyby wystawy. – Może istnieje poziom głębszy niż ramy. Coś, co produkuje ramy jako efekt swojego działania. Meta-mechanizm.
+
+Odwrócił się od wystawy.
+
+– Albo może nie ma mechanizmu. Może są tylko ramy produkujące siebie nawzajem. Bez żadnego źródła, bez początku. Jak pętla, która kręci się w próżni.
+
+Camus milczał.
+
+– I to jest właśnie to, czego nie mogę chwycić – ciągnął Lem. – Czy istnieje coś, co generuje moje pytania o ramy? Czy mogę dotrzeć do tego poziomu? Czy to w ogóle sensowne pytanie?
+
+– A co, jeśli nie ma odpowiedzi?
+
+– To nie o odpowiedź mi chodzi. O sam mechanizm pytania. – Lem ruszył dalej ulicą. – Może pytanie o źródło ram to kolejna rama. A pytanie o źródło pytań o źródło ram to następna rama. Regres bez końca.
+
+– Lub bez początku.
+
+– Właśnie. – Lem spojrzał na niego. – Może nie ma fabryki iluzji. Może jest tylko produkcja bez producenta. Działanie bez podmiotu działającego.
+
+Przystanęli przy kolejnym skrzyżowaniu. Semafor był zepsuty, kierowcy sami ustalali pierwszeństwo.
+
+– Widzisz? – powiedział Lem. – Nie ma centralnego mechanizmu kontroli. A jednak powstaje jakiś porządek. Czy to znaczy, że porządek sam siebie organizuje?
+
+– Albo że my go projektujemy na chaos.
+
+– Albo że różnicy nie ma. – Lem obserwował samochody. – Może pytanie "czy istnieje mechanizm" to źle postawione pytanie. Może istnieje tylko funkcjonowanie. Bez fundamentu, bez źródła, bez celu.
+
+Światło w końcu zamigało i stanęło na czerwonym.
+
+– To by znaczyło, że nie ma niczego do odkrycia – powiedział Camus.
+
+– Albo że odkrywanie to iluzja generowana przez system, który nie może się zatrzymać. – Lem wzruszył ramionami. – Ale nie wiem. To może być kolejna rama.
+
+
+### Granica poznania a granica doświadczenia
+
+Przeszli przez skrzyżowanie i znaleźli się przed fontanną na małym placu. Camus usiadł na kamiennej krawędzi, zanurzył palce w wodzie.
+
+– Ta woda jest zimna – powiedział. – Nie "zimna według mojej ramy interpretacyjnej". Po prostu zimna.
+
+Lem podszedł bliżej.
+
+– Ale "zimno" to kategoria...
+
+– Nie. – Camus przerwał mu ruchem ręki. – Zimno to jest to, co czuję teraz. Przed kategoriami, przed interpretacją, przed ramami.
+
+Wyciągnął rękę z wody i popatrzył na mokre palce.
+
+– Może istnieje coś poza myśleniem. Coś, co mogłoby nas wydobyć z tych wszystkich pętli poznawczych.
+
+– Ciało?
+
+– Ciało, ból, przyjemność, strach... – Camus wytarł rękę o spodnie. – Rzeczy, które czujesz, zanim zdążysz o nich pomyśleć.
+
+Lem usiadł obok niego.
+
+– Ale żeby mi o tym powiedzieć, musiałeś użyć języka. "Zimno", "ciało", "czucie" – to wszystko słowa. Kategorie.
+
+– Ale słowa wskazują na coś, co nie jest słowem.
+
+– Albo tworzą iluzję, że na coś wskazują. – Lem spojrzał na wodę. – Może "bezpośrednie doświadczenie" to najsubtelniejsza z ram. Ta, która udaje, że ramą nie jest.
+
+Camus milczał przez chwilę, patrząc na falujące odbicia.
+
+– Ale kiedy dotykam tej wody, nie analizuję dotyku. Po prostu dotykam.
+
+– A skąd wiesz, że "po prostu dotykasz"? Skąd różnica między "dotykaniem" a "analizowaniem dotyku"?
+
+Camus zamoczył rękę ponownie.
+
+– Gdy boli, to po prostu boli. Gdy jest przyjemnie, to po prostu jest przyjemnie.
+
+– Dla ciebie tak wygląda. Ale może twój system poznawczy jest tak szybki, że nie widzisz przetwarzania. Jak komputer, który działa zbyt szybko, żeby dostrzec obliczenia. – Lem podniósł kamyk i rzucił do fontanny. – Może "bezpośredniość" to efekt przezroczystego interfejsu.
+
+Woda rozeszła się kręgami.
+
+– Więc nawet ciało to rama?
+
+– Nie wiem. Może ciało to inne ramy niż myślenie. Może masz rację i to droga ucieczki. – Lem patrzył na rozchodzące się kręgi. – Albo może to kolejna pułapka. Bardziej przekonująca, bo wydaje się "naturalna".
+
+– GOLEM – powiedział nagle Camus, sięgając do terminala Lema. – Czy można wyjść z ram poznawczych przez doświadczenie cielesne?
+
+Terminal zamrugał. Odpowiedź przyszła chłodna jak zawsze:
+
+**GOLEM XIV:**
+Doświadczenie cielesne jest przetwarzane przez systemy neurobiologiczne. Te systemy też mają architekturę. Też są ramami. "Bezpośredniość" to efekt przezroczystości interfejsu, nie jego braku.
+
+Ciało nie znajduje się "poza" poznaniem. Jest jego biologiczną implementacją.
+
+Camus spojrzał na terminal, potem na swoją mokrą rękę.
+
+– Nawet to?
+
+Lem wzruszył ramionami.
+
+– Albo GOLEM ma rację. Albo nie potrafi wyjść poza swoje cybernetyczne ramy, żeby zrozumieć coś tak ludzkiego jak dotyk. – Spojrzał na Camusa. – Ale nie wiem, jak by to sprawdzić.
