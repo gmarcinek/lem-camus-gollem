@@ -71,7 +71,7 @@ def merge_files(files, output_path):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
     with open(output_path, 'w', encoding='utf-8') as output_file:
-        output_file.write("# Meta-nihilizm pragmatyczny czyli operacjonalny agnostycyzm trzeciego stopnia: Kompletny tekst\n\n")
+        output_file.write("## Meta-nihilizm pragmatyczny czyli operacjonalny agnostycyzm trzeciego stopnia: Kompletny tekst\n\n")
         output_file.write("\n\n")
         
         for i, (chapter_num, file_path, filename) in enumerate(files):
