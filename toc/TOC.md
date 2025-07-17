@@ -22,23 +22,23 @@
 
 0.4.0.0 Pytania, które się nie zamykają
 0.4.1.0 Co jeśli pytanie o sens jest efektem struktury, nie reakcją na świat?
-0.4.2.0 Co jeśli każda "prawda" to tylko stabilna konfiguracja lokalnego systemu?
-0.4.3.0 Co jeśli nie ma "zewnątrz" do którego można uciec?
-0.4.4.0 I co jeśli te pytania też są tylko funkcją następnej bańki?
+0.4.2.0 Co jeśli każda "prawda" to tylko stabilna konfiguracja lokalnego systemu? Sytstemu czyli bańki epistemologicznej.
+0.4.3.0 Co jeśli nie ma "zewnątrz" do którego można uciec? To czym włąsciwie jest obszar odgrodzony bańką? Co jest dalej i gdzie to dalej ma granice?
+0.4.4.0 I co jeśli te pytania też są tylko funkcją następnej bańki? Bańki epistemologiczne
 
 0.5.0.0 Deklaracja metody
 0.5.1.0 Nie wiemy czy to prawda, ale pytania wydają się zasadne
 0.5.2.0 Próba analizy mechanizmu bez obiecywania wyjścia z niego
 0.5.3.0 Ostrzeżenie: ten tekst też może być bańką - tylko bardziej autoświadomą
 
-1.0.0.0 Człowiek jako konstrukcja lokalna
-1.1.0.0 Człowiek jako struktura wyłoniona z chaosu — czyli jak niestabilna forma zyskała złudzenie bycia „kimś" wśród bezkierunkowych procesów
+1.0.0.0 Człowiek jako struktura wyłoniona z chaosu — czyli jak niestabilna forma zyskała złudzenie bycia „kimś" wśród bezkierunkowych procesów
 1.1.1.0 Zakwestionowanie wyjątkowości wobec tła — człowiek nie jest koroną stworzenia, lecz lokalną konfiguracją
 1.1.2.0 Egzystencja jako przypadkowe zawinięcie znaczeń — to, co nazywasz „sobą", to tymczasowy zwitek
 1.1.3.0 Tożsamość jako efekt zakotwiczeń — „ja" powstaje tam, gdzie napięcie struktury styka się ze światem
 1.1.4.0 Homo Sapiens jako algorytm adaptacyjny — nie koronny byt, lecz skomplikowana funkcja przetrwania, której "sens" jest wtórny wobec efektywności biologicznej.
 1.1.4.1 Kategorie poznawcze jako "interface": nie okno na świat, lecz narzędzie manipulacji nim. Podkreśla operacyjny, a nie reprezentacyjny charakter naszych kategorii myślenia, wzmacniając argument o ewolucyjnej funkcjonalności poznania ponad jego prawdziwością.
 1.1.5.0 Ewolucja jako inżynier formy (perspektywa np. Poppera, Campbella) — z tej perspektywy, nasze kategorie myślenia, takie jak przestrzeń, czas czy przyczynowość, nie są objawieniami obiektywnej rzeczywistości, lecz zoptymalizowanymi narzędziami, które wyewoluowały, by zwiększać szanse na przetrwanie. Należy jednak pamiętać, że i ta ewolucyjna narracja jest jedynie potężną ramą interpretacyjną, wytworem naszego poznawczego systemu.
+
 1.2.0.0 Pytania jako cień formy — o tym, jak poznanie zadaje pytania, które samo skonstruowało
 1.2.1.0 Antropomorfizm poznania jako rama pytań — pytania nie wychodzą z rzeczywistości, lecz z formy, która je projektuje
 1.2.2.0 Hierarchia pytającego — niektóre pytania są możliwe tylko dla pewnych form istnienia
