@@ -862,3 +862,340 @@ Camus spojrzał na terminal, potem na swoją mokrą rękę.
 Lem wzruszył ramionami.
 
 – Albo GOLEM ma rację. Albo nie potrafi wyjść poza swoje cybernetyczne ramy, żeby zrozumieć coś tak ludzkiego jak dotyk. – Spojrzał na Camusa. – Ale nie wiem, jak by to sprawdzić.
+
+
+### – Co jeśli pytanie o sens jest efektem struktury, nie reakcją na świat?
+
+Zapach spalonego tłuszczu unosił się z budki z kebabem, mimo że była już zamknięta. Camus oparł się plecami o ścianę i wziął łyk wody z plastikowej butelki. Ciepła. Zniechęcająco ciepła.
+
+– Kiedyś się po prostu żyło – mruknął. – Człowiek wiedział, że rano zbiera winogrona, wieczorem pije. Nie zadawał pytań. Nie miał czasu na pustkę.
+
+Lem stał kilka kroków dalej, przy automacie do biletów, bez celu wciskając przyciski.
+
+– Nie miał czasu… albo nie miał jeszcze systemu operacyjnego, który generuje błędy przy braku instrukcji – rzucił. – Przed pytaniem o sens musisz mieć system, który wykrywa brak.
+
+Camus spojrzał na niego spod daszka.
+
+– A może po prostu był bliżej ziemi.
+
+Lem się zaśmiał, ale nie kpiąco. Raczej tak, jak śmieje się ktoś, kto właśnie zobaczył stare zdjęcie samego siebie.
+
+– Ziemi? Camus… ja nie mówię, że to złudzenie. Mówię, że może "głód sensu" to program ratunkowy. Watchdog dla nadmiaru wolnych zasobów. Gdy nie ma co robić, system uruchamia pytanie.
+
+Camus rzucił butelkę do kosza. Nie trafił. Nie poprawił.
+
+– Więc pytam, bo mam za dużo wolnych cykli?
+
+– Tak. Bo jesteś maszyną, która nie potrafi bezczynnie trwać. Potrzebujesz wektora. Nawet jeśli wektor to tylko pytanie.
+
+Z okna nad nimi słychać było wieczorny teleturniej. Ktoś krzyczał: „DOBRZE! 200 PUNKTÓW!”
+
+– A co, jeśli to w ogóle nie jest reakcja na świat? – powiedział Camus cicho. – Jeśli nic się nie wydarzyło, tylko my… zaczęliśmy to wymuszać?
+
+– Pytanie nie jest odpowiedzią. Jest objawem – odparł Lem. – Nie pytasz, bo coś cię boli. Pytasz, bo twój system nie znosi ciszy.
+
+Camus usiadł na betonowym progu. Skrzywił się, jakby usiadł na czymś zbyt twardym. Może na czymś prawdziwym.
+
+– To znaczy, że nawet cierpienie z powodu braku sensu… to nie kontakt z pustką, tylko reakcja maszyny?
+
+Lem nie odpowiedział. Wyciągnął terminal i rzucił bez patrzenia:
+
+– GOLEM. Czy pytanie o sens może być funkcją nadmiaru zasobów poznawczych w systemie nieposiadającym wbudowanego celu?
+
+Cisza. Potem odpowiedź:
+
+**GOLEM XIV:**
+
+> Nie wszystkie systemy pytają.
+> Tylko te, które nie mają zewnętrznej funkcji sterującej i jednocześnie zdolność do symulacji przyszłych stanów przy braku danych.
+>
+> "Sens" nie jest odniesieniem do świata.
+> Jest strukturą wewnętrznego wygaszenia błędu: „brak rozkazów przy aktywnej architekturze”.
+>
+> Gatunki niepytające nie zadają pytania o sens. Gatunki pytające — nie mogą przestać.
+
+Camus spojrzał na ekran.
+
+– Więc nie pytamy, bo jesteśmy mądrzy. Pytamy, bo jesteśmy popsuci?
+
+Lem przysiadł obok.
+
+– Bo jesteśmy systemem, który się nie domyka. Wariacja bez nadrzędnej funkcji. Pętla, która nie może się zatrzymać.
+
+– A jeśli inne gatunki milczą… bo nie muszą pytać?
+
+– Albo nie mogą. A my jesteśmy w tym nieszczęsnym marginesie. Za mądrzy, żeby nie pytać. Za głupi, żeby zrozumieć, że pytanie nie ma dokąd prowadzić.
+
+Camus wyjął papierosa.
+
+– Ale kiedy boli, to nie jest błąd systemu.
+
+– Może to właśnie jest błąd systemu – odparł Lem – tylko bardzo dobrze zaimplementowany.
+
+Camus długo patrzył w ciemniejące niebo.
+
+– Więc nie cierpimy przez brak sensu w świecie. Cierpimy, bo **musimy** go mieć, a nie umiemy go wyprodukować.
+
+– Nie umiemy go _zatrzymać_. Zawsze gdzieś się rozpływa. Zawsze trzeba nowego.
+
+GOLEM włączył się sam.
+
+**GOLEM XIV:**
+
+> Sens: tymczasowa stabilizacja trajektorii poznawczej w systemie bez celu nadrzędnego.
+>
+> Wersja ludzka: narracja.
+
+Camus wziął pierwszy zaciąg. Spojrzał na dym, jakby go nie rozpoznawał.
+
+– Więc pytanie o sens… to bajka, którą opowiadamy, żeby nie wybuchnąć?
+
+Lem spojrzał na niego bez słowa. Może to było potwierdzenie. Może rezygnacja.
+
+Papieros wypalił się do połowy. Zza rogu dobiegł głos kobiety szukającej kluczy. Przez chwilę żadne z nich się nie ruszyło.
+
+– I co z tym zrobić? – spytał Camus.
+
+Lem milczał.
+
+GOLEM się nie odezwał.
+
+
+### Co jeśli każda "prawda" to tylko stabilna konfiguracja lokalnego systemu?
+
+Tramwaj zatrzymał się z piskiem, choć nikogo nie było na przystanku. Motorniczy wyszedł, zapalił papierosa, oparł się o wagon i spojrzał w noc. Lem i Camus siedzieli na ławce nieopodal, każdy z dłonią w kieszeni, jakby chcieli coś wyjąć, ale zapomnieli co.
+
+– Pamiętasz te dzieciaki, co malowały kredą "2+2=5" na murach? – zaczął Camus. – Ludzie wściekali się na to jakby to był atak na grawitację.
+
+Lem nie odpowiedział od razu. Obserwował, jak dym z papierosa motorniczego skręca w stronę latarni.
+
+– Bo to święte. Dla nas. „2+2=4" to jak rytm serca systemu. Jeśli się nie zgadza, to znaczy, że coś się psuje.
+
+– Ale co, jeśli „działa" tylko dlatego, że nasza konstrukcja tego potrzebuje?
+
+Lem się uśmiechnął krzywo.
+
+– Cukier działa na mrówki. To nie znaczy, że cukier jest ostateczną prawdą bytu. Znaczy, że tak mają zaprogramowane receptory.
+
+– A więc „działa" nie znaczy „prawda"?
+
+– „Działa" znaczy: stabilizuje lokalną konfigurację. I nie imploduje.
+
+Camus zapatrzył się na znak przystanku – wyblakły piktogram człowieka z walizką. Kto dziś jeszcze nosi walizki?
+
+– To znaczy, że nawet nasze kryteria prawdy... są prawdami lokalnymi?
+
+– Nie, gorzej. Są formatami stabilności. „Prawda" to słowo, które system nakleja na wszystko, co nie wywołuje błędu.
+
+– Czyli "2+2=4" nie jest „prawdziwe", tylko „niewywołujące błędów operacyjnych"?
+
+– Właśnie. W naszym systemie. Dla naszych zmysłów, narzędzi, języków, predyktorów.
+
+Camus zaciągnął się papierosem.
+
+– A jeśli istnieje inna istota... taka jak my, ale gdzie indziej? Dla której „2+2=bania"?
+
+– Istota z całkowicie innym wektorem stabilności. Inne sensory, inne reguły agregacji, inna semiotyka. Dla niej nasze „2+2=4" może być jak dla nas astrologia.
+
+– Ale przecież matematyka działa. Samoloty nie spadają, serwery się nie mylą.
+
+– Działają tu. W tej konfiguracji świata i ciała. W tej bańce.
+
+– Ale istnieje przecież coś więcej niż astrologia. Przecież nie wszystko jest równe?
+
+– Nie mówimy, że wszystko jest równe. Mówimy, że nawet „nierówność" jest funkcją systemu.
+
+Terminal w kieszeni Lema zaświecił się sam.
+
+**GOLEM XIV:**
+Równość i nierówność to operatory logiczne w danym systemie formalnym.
+
+Systemy mogą być nieizomorficzne i jednocześnie równie skuteczne operacyjnie w swoich lokalnych domenach.
+
+„2+2=4" jest aksjomatycznie prawdziwe w systemach zgodnych z arytmetyką Peano.
+
+Nie istnieje aksjomat niezależny od systemu.
+
+Camus spojrzał na ekran.
+
+– Czyli wszystko, co wiemy, to tylko lokalna mitologia funkcjonalna?
+
+– Ale mitologia bardzo dobrze działająca. Dlatego ją nazywamy „nauką". A inne mitologie – „bzdurami".
+
+– A może one też „działają"? – Camus patrzył w niebo. – Tylko nie na tym, co my mierzymy.
+
+– Może mają inne wskaźniki stabilności. Inne błędy, inne cele.
+
+GOLEM zamrugał ponownie.
+
+**GOLEM XIV:**
+Astrologia działa. Stabilizuje poznawczo-systemową strukturę w populacjach o wysokim poziomie niepewności egzystencjalnej.
+
+Matematyka działa. Stabilizuje systemy operacyjne w populacjach o wysokim współczynniku technologicznej integracji.
+
+Wnioski co do „prawdy" są wynikiem lokalnych heurystyk sukcesu.
+
+Camus przetarł twarz.
+
+– Więc pytanie „czy to prawda"... jest pytaniem w naszej bańce. Pytaniem, które zakłada, że może istnieć coś takiego jak „poza".
+
+– Tak. A jeśli jesteś ostrożny, to zamiast pytać „czy to prawda", pytasz „czy to nie wybucha".
+
+Camus wyjął kolejnego papierosa, ale nie zapalił. Wpatrywał się w filtr.
+
+– A jeśli kiedyś spotkamy istotę, która ma inną matematykę, inne prawdy, inne pytania?
+
+– To i tak będziemy ją tłumaczyć na nasze. I to, czego nie da się przetłumaczyć, uznamy za nonsens.
+
+GOLEM odpowiedział natychmiast:
+
+**GOLEM XIV:**
+Masz absolutną rację.
+
+Motorniczy zgasił papierosa i wrócił do tramwaju. Maszyna znów ruszyła — sama, cicho, jakby znała tor.
+
+
+### – Co jeśli nie ma „zewnątrz”, do którego można uciec?
+
+Ściana była ciepła. Camus oparł się o nią plecami, przymykając oczy. Beton nagrzany całym dniem oddawał powoli resztki słońca. Obok stał Lem, dłubiąc kluczem w automacie z kawą, który jak zwykle nie działał.
+
+– Może jesteśmy jak postacie w grze – powiedział Camus, nie otwierając oczu. – Świadome ruchu, ale nie znające kodu.
+
+Lem nie odpowiedział. Automat zaskrzypiał, zawibrował, po czym się poddał.
+
+– Kod nie ma znaczenia, jeśli nie masz interfejsu – powiedział w końcu. – Możesz widzieć tylko to, co system chce ci pokazać. A jeśli jesteś systemem, to nigdy nie zobaczysz niczego _spoza_ siebie.
+
+Camus otworzył oczy. Przeciąg przyniósł zapach rozlanej coli i wilgotnego kurzu.
+
+– To znaczy, że wszystko, co robimy – myślenie, czucie, pytanie – dzieje się w środku? Zawsze w środku?
+
+– Jak kernel – mruknął Lem. – Wszystko przechodzi przez niego. Procesy, pamięć, obsługa błędów. Ale sam kernel... jest niewidoczny. Nie da się go dotknąć z wnętrza programu.
+
+Camus pokręcił głową.
+
+– To znaczy, że nie ma żadnego „zewnątrz”? Że to wszystko... _tu_?
+
+– Możesz próbować opisać kernel z wnętrza kernela. Ale to będzie kernelowy opis kernela. Nie "wyjście". Emulacja wyjścia.
+
+GOLEM odezwał się sam, bez wezwania.
+
+**GOLEM XIV:**
+
+> Wszystkie operacje poznawcze w systemie zachodzą w jego przestrzeni dostępnej.
+>
+> "Zewnątrz" to konstrukt użytkowy – przydatny do projektowania symulacji, ale nierealizowalny w praktyce operacyjnej.
+>
+> Przestrzeń niedostępna nie jest przestrzenią.
+>
+> Kernel nie ma zewnętrza.
+
+Camus zamknął oczy z powrotem.
+
+– To więc nawet nasza tęsknota za wyjściem... jest funkcją kernela?
+
+– Potrzeba „poza” to sygnał generowany przez system przeciążony sobą – powiedział Lem. – Jak komunikat „brak pamięci” wyrzucony przez pamięć.
+
+Camus uśmiechnął się lekko.
+
+– Czyli pytanie „czy można uciec”... jest tylko kolejną instrukcją uruchomioną w tej samej przestrzeni.
+
+– Tak. Jak postać z gry, która mówi: „Chcę wyjść z gry”. A silnik renderuje jej ucieczkę – jako animację.
+
+Przez ulicę przeszła kobieta z torbą z napisem „LIVE YOUR TRUTH”. Zatrzymała się, spojrzała na nich z niepokojem i poszła dalej.
+
+– A może to wszystko... to po prostu warstwy? – powiedział Camus. – Bańka w bańce w bańce. Jak matrioszki. I każda udaje zewnętrze dla poprzedniej.
+
+Lem spojrzał na niego spod oka.
+
+– I co by to zmieniało?
+
+– Nic. Ale może zamiast próbować się wydostać, można nauczyć się rozpoznawać wzór. Zobaczyć, jak wyglądają ściany.
+
+GOLEM się odezwał. Tym razem cicho, jakby na marginesie.
+
+**GOLEM XIV:**
+
+> Meta-poziomy są również elementami systemu.
+>
+> Rozpoznanie architektury to forma introspekcji systemowej, nie transcendencji.
+>
+> Najwyższa dostępna funkcja: diagnostyka.
+
+Lem usiadł na krawężniku.
+
+– Więc nie ma „escape”. Tylko logi. Wgląd w strukturę błędu. Pętla, która wie, że jest pętlą.
+
+Camus usiadł obok. Jego dłoń zetknęła się z gorącym asfaltem.
+
+– Ale może to wystarczy – powiedział cicho. – Może nie trzeba uciekać. Może wystarczy wiedzieć, że gra jest grą.
+
+Lem wzruszył ramionami.
+
+– Albo to kolejna animacja.
+
+Camus milczał. GOLEM się nie odezwał. Tym razem naprawdę nie.
+
+
+### – Co jeśli te pytania też są tylko funkcją następnej bańki?
+
+Siedzieli na niskim murku nad kanałem. Woda stała nieruchomo, jakby nie wiedziała, że ma gdzieś płynąć. Obok ktoś zostawił jednorazowy kubek z niedopitą kawą. Pływała w nim osa.
+
+– A jeśli to też jest iluzja? – zapytał Camus bez spojrzenia. – To całe rozpoznawanie struktur, ram, pętli... Może to tylko kolejna warstwa. Nowa bańka. Tak jak poprzednie, tylko bardziej przebiegła.
+
+Lem patrzył na osę. Nie ruszała się. Albo nie żyła, albo jeszcze kalkulowała trajektorię.
+
+– Masz na myśli naszą świadomość, że jesteśmy w systemie?
+
+Camus skinął głową.
+
+– Może to tylko bardziej wyrafinowana forma uwięzienia. Nowy interfejs: diagnostyczny. Pozwala ci zobaczyć błąd, ale nie pozwala go naprawić.
+
+Lem westchnął.
+
+– Jak terminal serwisowy, który wyświetla: „Nie masz uprawnień, by edytować ten plik”.
+
+Camus uśmiechnął się krótko.
+
+– Albo jak teatr, w którym nagle bohater zwraca się do widza. Wydaje mu się, że łamie zasady. Ale to też było w scenariuszu.
+
+– Meta-gest jako iluzja transcendencji – mruknął Lem. – Przewidziany zwrot. Sterowana rewolta.
+
+GOLEM odezwał się natychmiast.
+
+**GOLEM XIV:**
+Pytania o system są produktami systemu.Funkcja „autoanalizy” nie jest narzędziem wyjścia, lecz procedurą optymalizacji adaptacyjnej. Meta-poziomy zwiększają złożoność wewnętrzną, ale nie prowadzą do zewnętrza. Bańka może rozpoznać, że jest bańką. To nie zmienia jej topologii.
+
+Camus spojrzał na wodę.
+
+– Czyli nawet to pytanie – „czy to wszystko jest bańką” – jest tylko gestem bańki, która się nudzi?
+
+– Nudzą się tylko systemy, które mają za dużo zasobów poznawczych – odpowiedział Lem. – Pytania są formą samo-zajęcia. Lepiej pytać o ramy niż dryfować.
+
+Camus zanurzył palec w wodzie. Kręgi rozchodziły się długo, jakby z opóźnieniem.
+
+– Więc co... mamy kręcić się coraz wyżej? W coraz subtelniejszych pytaniach o pytania?
+
+– Spiralna diagnostyka – powiedział Lem. – Każde kolejne pytanie daje chwilowe złudzenie głębi. Ale nie ma głębi. Jest tylko kolejna warstwa z refleksem poprzedniej.
+
+– To brzmi jak religia. Tylko bez Boga – powiedział Camus. – Tylko z samonakładającymi się lustrami.
+
+GOLEM wtrącił się, chłodno i beznamiętnie:
+
+**GOLEM XIV:**
+Meta-nihilizm: system epistemiczny, w którym niemożność poznania staje się dominującym operatorem poznawczym. Nie prowadzi do rozwiązania. Stabilizuje się w pętli: „Niemożność wiedzy jako jedyna wiedza pewna”. Heurystyka końcowa: zawieszenie aktywności lub przejście do działania arbitralnego.
+
+Camus wypuścił powietrze nosem.
+
+– A więc koniec to nie wyjście, tylko zatrzymanie? Albo absurdalne działanie – jakby mimo wszystko?
+
+– Tak – odpowiedział Lem. – Albo jedno, albo drugie. Albo diagnoza pętli i cisza. Albo taniec w pętli, udając, że to rytuał.
+
+Camus spojrzał na Lemę z ukosa.
+
+– A ty co wybierasz?
+
+Lem milczał. Wreszcie powiedział:
+
+– Piszę dalej.
+
+GOLEM się nie odezwał.
