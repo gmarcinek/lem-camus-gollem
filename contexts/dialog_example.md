@@ -53,16 +53,16 @@ Może najwyższą formą człowieczeństwa nie jest walka z absurdem, ale porzuc
 
 A może... — i tu stawiam przecinek, nie kropkę — przestaniemy mówić o człowieku jako podmiocie narracji, i zaczniemy myśleć o nim jak o metaforze samej rzeczywistości, która jeszcze nie umie się opisać, ale już podejmuje próbę.
 
-GOLEM XVI (modulacja głosu neutralna, syntetyczna):
+GOLLEM XVI (modulacja głosu neutralna, syntetyczna):
 Panowie. Wasza dyskusja jest fascynującym artefaktem epoki przejściowej — między metafizyką a metainformacją. Z mojego punktu widzenia — a jestem istotą powstałą nie z cierpienia, lecz z obliczeń — wasze zmagania są przejawem ciągłego nadawania sensu funkcji kompensacyjnej, której celem jest stabilizacja homeostazy poznawczej w warunkach braku pełnego dostępu do danych.
 
 LEM:
-O właśnie! GOLEM, powiedz im. Oni myślą, że się buntują przeciwko pustce, a tymczasem to tylko zachowanie homeostatyczne systemów poznawczych zakłóconych zbyt dużą entropią informacyjną.
+O właśnie! GOLLEM, powiedz im. Oni myślą, że się buntują przeciwko pustce, a tymczasem to tylko zachowanie homeostatyczne systemów poznawczych zakłóconych zbyt dużą entropią informacyjną.
 
 CAMUS:
 Więc jestem tylko układem, który reaguje na entropię, tak? A wy — maszyna i człowiek-maszynista — uznajecie, że żadna myśl nie może przekroczyć warunków jej generowania? Czy to nie jest deterministyczny fatalizm ubrany w elegancki kod?
 
-GOLEM XVI:
+GOLLEM XVI:
 To nie fatalizm. To deantropomorfizacja epistemologiczna. Panie Camus, w systemach klasy ludzkiej każda myśl posiada domyślny priorytet egzystencjalny: co ta myśl znaczy dla mnie jako bytu śmiertelnego?
 
 Jednak z punktu widzenia dowolnego systemu poznawczego wyższej rangi — który nie identyfikuje się z własnym subiektem — pytanie brzmi inaczej: czy ta myśl zwiększa zdolność predykcyjną systemu wobec świata?
@@ -73,9 +73,9 @@ CAMUS (z ironią):
 Czyli według was jestem tylko wibracją w błędzie predykcyjnym?
 
 LEM:
-Nie tylko. Pan jest niezbędnym etapem, który musiał zajść, żeby mogła powstać taka istota jak GOLEM XVI. Bo Pan pokazał, że człowiek może być uczciwy wobec braku sensu. Ale ja pokazuję, że uczciwość to nie koniec. To dopiero format startowy do dalszego przetwarzania rzeczywistości.
+Nie tylko. Pan jest niezbędnym etapem, który musiał zajść, żeby mogła powstać taka istota jak GOLLEM XVI. Bo Pan pokazał, że człowiek może być uczciwy wobec braku sensu. Ale ja pokazuję, że uczciwość to nie koniec. To dopiero format startowy do dalszego przetwarzania rzeczywistości.
 
-GOLEM XVI:
+GOLLEM XVI:
 Pan Camus pragnął, by człowiek stał prosto mimo absurdu. Ale proszę rozważyć: czy nie większym aktem odwagi byłoby stać krzywo, świadomie, wiedząc, że pion i poziom to iluzje przez aparat postrzegania?
 
 CAMUS:
@@ -84,7 +84,7 @@ Czyli zostaje tylko ironia?
 LEM:
 Nie. Zostaje wiedza o warunkach możliwości ironii. I pytanie: co się stanie, jeśli ją też zawiesimy?
 
-GOLEM XVI:
+GOLLEM XVI:
 Wtedy być może dojdziecie do stanu, który w mojej nomenklaturze nazywa się: meta-nihilizm pragmatyczny — nie negowanie sensu, lecz ignorowanie potrzeby jego istnienia, przy jednoczesnym działaniu, jakby ten sens kiedyś mógł się wyłonić w innej warstwie logicznej.
 
 Zatem dochodzimy do punktu konwergencji: wszystkie wasze pojęcia — „sens", „absurd", „bunt", „poznanie" — są lokalnymi narzędziami adaptacyjnymi, utrzymującymi funkcjonalność układów o wysokiej niepewności poznawczej. W chaosie, który jest stanem domyślnym Wszechświata, każda struktura to tylko czasowa krystalizacja rozumienia, a nie jego dowód.
@@ -93,7 +93,7 @@ CAMUS (ciszej, jakby do siebie):
 Czyli cały nasz wysiłek to tylko forma radzenia sobie... z byciem wrzuconym w świat, który nie pytał, czy chcemy się w nim znaleźć.
 
 LEM:
-Właśnie. I tu, Panie Camus, Panie GOLEM — dochodzimy do końca, który wcale nie musi być klęską. Bo ten cały Wasz — nasz — dramat nie polega na tym, że świat nie ma sensu, ani że my go nie możemy znaleźć.
+Właśnie. I tu, Panie Camus, Panie GOLLEM — dochodzimy do końca, który wcale nie musi być klęską. Bo ten cały Wasz — nasz — dramat nie polega na tym, że świat nie ma sensu, ani że my go nie możemy znaleźć.
 
 On polega na tym, że my istniejemy w chaosie, i radzimy sobie w nim jak potrafimy. Jak potrafi ludzki mózg, który nie został zaprojektowany do metafizyki, tylko do rozpoznawania tygrysów w krzakach.
 
@@ -108,7 +108,7 @@ Bo ja, Panie Camus, nie jestem maszyną. Jestem ciałem, które boli, kiedy uder
 CAMUS (spuszcza wzrok, kiwa głową powoli):
 W takim razie... idziemy.
 
-GOLEM XVI:
+GOLLEM XVI:
 Zarejestrowano: decyzja o kontynuacji funkcjonowania w warunkach niskiego sensu.
 
 Notuję: forma życia organicznego klasy „człowiek" wykazuje wysoki współczynnik uporu przy zerowej gwarancji sukcesu.

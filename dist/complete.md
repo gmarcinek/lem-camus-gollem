@@ -1,7 +1,5 @@
 ## Meta-nihilizm pragmatyczny czyli operacjonalny agnostycyzm trzeciego stopnia: Kompletny tekst
 
-
-
 ### Moment pęknięcia
 
 Asfalt falował od gorąca, a powietrze drżało nad maskami samochodów jak przezroczysta folia. Nie było wiatru, tylko ciężka, lepiąca kołdra tłumiąca dźwięki miasta – klaksony brzmiały jak przez watę, a nawet krzyki sprzedawców lodów ginęły w gęstej atmosferze. Słońce stało w zenicie bezlitośnie, karząc cieniom kurczyć się pod stopami przechodniów szukających schronienia. Lem otarł pot z czoła i łysiny, po czym spojrzał na Camusa z czymś na kształt wyrzutu, czując jak koszula przykleja mu się do pleców.
@@ -60,11 +58,11 @@ Camus potarł kark, popatrzył w okno.
 
 Lem zerknął na terminal.
 
-– GOLEM – powiedział, stukając palcem w urządzenie – powiedz, czy znaczenie cyfry zależy od systemu pozycyjnego? Chodzi oczywiście o numerologię i kabałę w kontekście chrześcijaństwa i judaizmu.
+– GOLLEM – powiedział, stukając palcem w urządzenie – powiedz, czy znaczenie cyfry zależy od systemu pozycyjnego? Chodzi oczywiście o numerologię i kabałę w kontekście chrześcijaństwa i judaizmu.
 
 Terminal zamrugał. Głos odezwał się po chwili – płaski, aksamitny, nieludzki:
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 Wprowadzenie wartości symbolicznej do systemu pozycyjnego jest operacją lokalną. Przypisujecie sens miejscom dziesiętnym, jakby miały wagę ontologiczną. To wzorzec. Zaczynacie od struktury. Potem tworzycie metafizykę.
 Lem pokiwał głową. Camus wzruszył ramionami.
 
@@ -74,10 +72,9 @@ Lem pokiwał głową. Camus wzruszył ramionami.
 
 – Chcesz znów zapytać? – zapytał Camus.
 
-– Nie, wystarczy. Golem to nie rozmówca, tylko rezonator. Odbija nasze wątpliwości.
+– Nie, wystarczy. Gollem to nie rozmówca, tylko rezonator. Odbija nasze wątpliwości.
 
 Kawiarnia milczy. Camus patrzy w dno filiżanki. Lem coś notuje na serwetce
-
 
 ### Antropomorfizm – Dostrzeżenie, że moje pytania mogą być funkcją mojej struktury, nie świata
 
@@ -102,7 +99,6 @@ Lem sięgnął po serwetkę – tę samą, na której wcześniej notował numero
 – Widzisz – dodał po chwili, nie podnosząc wzroku z serwetki – to nie jest moment, w którym świat przestaje mieć sens. To moment, w którym odkrywasz, że sens był twoją własną emisją.
 
 Camus nie odpowiedział. Przesunął palcem po rancie talerzyka, jakby badał jego krzywiznę. Kawiarnia cichła. Wiatrak znów zaskrzypiał.
-
 
 ### Moment autoreferencji
 
@@ -132,11 +128,11 @@ Wzrok Camusa zatrzymał się na wiatraku, który właśnie na moment przestał s
 
 – Właśnie. I to jest chyba najgorsza część. Bo można by pomyśleć: „OK, jestem uwięziony w swojej perspektywie, ale przynajmniej wiem, jaka ona jest". Ale nie. Nie mogę jej znać, bo każda próba poznania ją przekształca. To jak próba sfotografowania własnych oczu. Zawsze będzie tam aparat.
 
-– GOLEM – powiedział Lem, stukając palcem w terminal – co się dzieje, gdy system obserwuje sam siebie?
+– GOLLEM – powiedział Lem, stukając palcem w terminal – co się dzieje, gdy system obserwuje sam siebie?
 
 Terminal zamrugał, aktywując się cicho.
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 Obserwacja systemu przez system wprowadza rekursję. Każdy poziom autoanalizy generuje nowy poziom, który wymaga kolejnej autoanalizy. Proces nie ma punktu zatrzymania.
 
 Camus spojrzał na terminal, a potem na Lema.
@@ -156,7 +152,6 @@ Lem położył dłonie płasko na stole. Patrzył na nie.
 – I najgorsze jest to, że ten moment, w którym to sobie uświadamiam... to też jest moment. Który też mnie zmienia. Jutro będę wspominał tę rozmowę i znów się zmienię. A za tydzień będę wspominał wspomnienie i...
 
 Camus milczał, patrząc w okno.
-
 
 ### Pierwsze podejrzenie: „Co jeśli nie szukam odpowiedzi, ale produkuję pytania?"
 
@@ -202,7 +197,6 @@ Camus uśmiechnął się smutno.
 
 – Chociaż czasem myślę, że może lepiej by było stać.
 
-
 ### Dyskomfort: próba powrotu do "normalności" i dlaczego nie działa
 
 Zgasili papierosy niemal jednocześnie. Lem zgniótł niedopałek z namaszczeniem, jakby zamykał jakiś rytuał. Camus rzucił kilka euro na spodek i wstał pierwszy.
@@ -247,7 +241,6 @@ Autobus podjechał z sykiem hamulców. Przez otwarte drzwi dobiegł ich głos ko
 
 Lem patrzył na nich z czymś, co mogło być ironią albo zazdrością.
 
-
 ### Pętla: każda próba analizy własnego myślenia używa tego samego myślenia
 
 Camus milczał przez dłuższą chwilę. Szli wolno, jakby chodnik lepił się do butów. Z bocznej uliczki dobiegł śmiech dziecka i odgłos otwieranych rolet sklepowych. Miasto drgało pod powierzchnią, ale oni byli zawieszeni w innej częstotliwości.
@@ -270,17 +263,17 @@ Camus spojrzał na niego z ukosa.
 
 Zatrzymali się przy przejściu dla pieszych. Lem nie ruszył od razu, tylko spojrzał na odbicie swojej sylwetki w szybie pustego lokalu.
 
-– Myślisz, że Golem by coś na to odpowiedział?
+– Myślisz, że Gollem by coś na to odpowiedział?
 
 Camus wzruszył ramionami. – Zadaj mu pytanie.
 
 Lem sięgnął do kieszeni, wyjął terminal i położył go na dłoni.
 
-– Golem, czy możliwa jest analiza poznawczej ramy bez użycia tejże ramy?
+– Gollem, czy możliwa jest analiza poznawczej ramy bez użycia tejże ramy?
 
 Terminal zawibrował cicho. Po chwili wypłynęła chłodna, sucha odpowiedź:
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 Niemożliwe. Każdy akt analizy jest funkcją ramy. Pragnienie przekroczenia jest również jej przejawem. Próba zrozumienia mechanizmu, który umożliwia rozumienie, jest z definicji tautologią. System nie może wyjść poza siebie, ponieważ „poza" jest niewyrażalne w jego języku.
 
 Camus spojrzał na terminal, potem na Lema.
@@ -300,7 +293,6 @@ Camus pokiwał głową powoli.
 – I dlatego nie ma wyjścia.
 
 Lem kiwnął głową. – Jest tylko świadomość braku wyjścia. Ale to wystarcza, żeby już nigdy nie wrócić.
-
 
 ### Dlaczego ateista i wierzący nie mogą się dogadać - nie przez treść, ale przez format
 
@@ -336,7 +328,6 @@ Lem patrzył na to z czymś, co mogło być fascynacją naukową.
 
 – Doskonałe obiegi zamknięte – mruknął. – Każdy system potwierdza sam siebie. To nie jest rozmowa. To wzajemne nadawanie na różnych częstotliwościach.
 
-
 ### Konflikt nie o to "co jest prawdą", ale o to "jak się ustala prawdę"
 
 Odsunęli się od tłumu, w cichsze miejsce za rzeźbą świętego, gdzie hałas manifestacji stawał się tylko gwarnym szumem. Lem usiadł na niskim murku i wyciągnął terminal.
@@ -347,11 +338,11 @@ Camus spojrzał na niego z ukosa.
 
 – Co konkretnie?
 
-– Czy to w ogóle można rozstrzygnąć. – Lem stuknął palcem w terminal. – GOLEM, obserwujemy konflikt światopoglądowy. Czy istnieje sposób obiektywnego ustalenia, która strona ma rację w kwestii statusu embrionu?
+– Czy to w ogóle można rozstrzygnąć. – Lem stuknął palcem w terminal. – GOLLEM, obserwujemy konflikt światopoglądowy. Czy istnieje sposób obiektywnego ustalenia, która strona ma rację w kwestii statusu embrionu?
 
-Terminal zamrugał. Przez dłuższą chwilę nic się nie działo. Potem wypłynęła odpowiedź – tym razem nie chłodna i sucha, ale jakby GOLEM postanowił im pokazać fragment tego, co naprawdę widzi:
+Terminal zamrugał. Przez dłuższą chwilę nic się nie działo. Potem wypłynęła odpowiedź – tym razem nie chłodna i sucha, ale jakby GOLLEM postanowił im pokazać fragment tego, co naprawdę widzi:
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 Pytanie jest źle sformułowane. Nie ma konfliktu o "status embrionu". Jest konflikt o to, które reguły epistemiczne mają pierwszeństwo w konstruowaniu rzeczywistości społecznej.
 
 Jedna grupa operuje algorytmem teologicznym: prawda pochodzi z objawienia, interpretowanego przez autorytety doktryalne. Embrion ma status osoby, bo tekst sakralny oraz jego wykładnia tak to definiują.
@@ -390,8 +381,7 @@ W oddali ktoś krzyczał przez megafon. Słowa się zlały w jedno pasmo dźwię
 
 Lem pokręcił głową.
 
-– GOLEM ma rację. To nie epistemologia. To polityka. Walka o dominację jednego formatu nad drugim. A zwycięzca napisze podręczniki, w których będzie wyjaśnione, że jego sposób ustalania prawdy był "naturalny" od zawsze.
-
+– GOLLEM ma rację. To nie epistemologia. To polityka. Walka o dominację jednego formatu nad drugim. A zwycięzca napisze podręczniki, w których będzie wyjaśnione, że jego sposób ustalania prawdy był "naturalny" od zawsze.
 
 ### Każda bańka ma własny system walidacji - i wydaje się sobie oczywista
 
@@ -467,7 +457,6 @@ Camus skinął głową, ale wyglądał na niezadowolonego.
 
 Spojrzeli jeszcze raz na manifestację. Ludzie dalej krzyczeli, dalej trzymali transparenty, dalej byli przekonani o swojej racji.
 
-
 ### Obserwacja z zewnątrz: wszystkie strony robią to samo, ale nie widzą siebie
 
 Ruszyli dalej, odchodząc od placu. Hałas manifestacji stawał się coraz cichszy, aż w końcu został tylko jako dalekie buczenie. Przeszli przez niewielki park, gdzie starsi mężczyźni grali w szachy przy betonowych stołach.
@@ -511,7 +500,6 @@ Przeszli koło kolejnego stolika, gdzie grupa emerytów dyskutowała głośno o 
 Lem uśmiechnął się smutno.
 
 – Wszędzie to samo. Różne treści, ta sama struktura. Każdy w swojej bańce, każdy pewien swojej racji, każdy niewidzący własnej ramy.
-
 
 ### Iluzja uniwersalności: przekonanie każdej bańki o jej "naturalności"
 
@@ -559,7 +547,7 @@ Camus pokręcił głową z irytacją.
 
 – Ale ja nie jestem kulturą. Jestem konkretnym facetem, który ma konkretny żołądek. I ten żołądek burczy, gdy jest pusty. To fakt, nie interpretacja.
 
-– GOLEM – powiedział nagle Lem, wyciągając terminal. – Czy człowiek może funkcjonować bez systemu interpretacyjnego?
+– GOLLEM – powiedział nagle Lem, wyciągając terminal. – Czy człowiek może funkcjonować bez systemu interpretacyjnego?
 
 Camus machnął ręką.
 
@@ -567,7 +555,7 @@ Camus machnął ręką.
 
 Terminal zamrugał. Odpowiedź przyszła szybko, ale była chłodna jak zawsze:
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 Niemożliwe. Percepcja wymaga ram kategoryzacji. Działanie wymaga hierarchii wartości. Komunikacja wymaga wspólnych kodów znaczeniowych. "Wyjście z systemu" oznaczałoby dezintegrację funkcji poznawczych.
 
 Człowiek może zmieniać systemy, ale nie może ich nie mieć. Iluzja naturalności jest funkcją adaptacyjną – system działa skuteczniej, gdy nie jest postrzegany jako system.
@@ -587,7 +575,6 @@ Lem schował terminal, wyglądając na zaskoczonego pytaniem.
 – Właśnie o to mi chodzi. – Camus ruszył dalej ulicą. – Może nie ma prawdy absolutnej. Ale są realne konsekwencje. I może to wystarczy.
 
 Przeszli dalej ulicą. Z oddali dobiegł dźwięk dzwonów kościelnych.
-
 
 ### Problem "nie wiem czego nie wiem że nie wiem"
 
@@ -622,7 +609,6 @@ Camus milczał przez chwilę, patrząc w stronę, skąd dobiegł hałas.
 – Ale to znaczy, że nie można z tego wyjść?
 
 – A dlaczego miałoby się dać? – Lem spojrzał na niego z zaciekawieniem. – Skąd to przekonanie, że musi istnieć wyjście?
-
 
 ### Bańka jako niewidzialna rama widzenia
 
@@ -684,7 +670,6 @@ Camus wypuścił dym w powietrze.
 
 – To znaczy, że nawet nie wiem, czego nie wiem o tym, czego nie wiem. – Lem ruszył dalej. – I ty też nie.
 
-
 ### Dlaczego nie można "po prostu wyjść" - każde wyjście używa narzędzi z wnętrza
 
 Przeszli przez skrzyżowanie i zatrzymali się przed małym parkiem. Camus usiadł na ławce, Lem stanął obok, opierając się o oparcie.
@@ -722,7 +707,6 @@ Camus wypuścił dym.
 – A my?
 
 – My jesteśmy uwięzieni w algorytmie, który generuje pytanie o uwięzienie. I każda próba odpowiedzi używa tego samego algorytmu.
-
 
 ### Przykład: język krytykujący język, logika analizująca logikę
 
@@ -767,7 +751,6 @@ Camus patrzył na przechodzące samochody.
 – A może po prostu nie potrafię przestać gadać – dodał Lem po chwili.
 
 Po raz pierwszy tego dnia brzmiał jak człowiek, a nie jak maszyna analityczna.
-
 
 ### Podejrzenie: czy istnieje mechanizm, który to produkuje?
 
@@ -817,7 +800,6 @@ Przystanęli przy kolejnym skrzyżowaniu. Semafor był zepsuty, kierowcy sami us
 
 – Albo że odkrywanie to iluzja generowana przez system, który nie może się zatrzymać. – Lem wzruszył ramionami. – Ale nie wiem. To może być kolejna rama.
 
-
 ### Granica poznania a granica doświadczenia
 
 Przeszli przez skrzyżowanie i znaleźli się przed fontanną na małym placu. Camus usiadł na kamiennej krawędzi, zanurzył palce w wodzie.
@@ -864,11 +846,11 @@ Woda rozeszła się kręgami.
 
 – Nie wiem. Może ciało to inne ramy niż myślenie. Może masz rację i to droga ucieczki. – Lem patrzył na rozchodzące się kręgi. – Albo może to kolejna pułapka. Bardziej przekonująca, bo wydaje się "naturalna".
 
-– GOLEM – powiedział nagle Camus, sięgając do terminala Lema. – Czy można wyjść z ram poznawczych przez doświadczenie cielesne?
+– GOLLEM – powiedział nagle Camus, sięgając do terminala Lema. – Czy można wyjść z ram poznawczych przez doświadczenie cielesne?
 
 Terminal zamrugał. Odpowiedź przyszła chłodna jak zawsze:
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 Doświadczenie cielesne jest przetwarzane przez systemy neurobiologiczne. Te systemy też mają architekturę. Też są ramami. "Bezpośredniość" to efekt przezroczystości interfejsu, nie jego braku.
 
 Ciało nie znajduje się "poza" poznaniem. Jest jego biologiczną implementacją.
@@ -879,8 +861,7 @@ Camus spojrzał na terminal, potem na swoją mokrą rękę.
 
 Lem wzruszył ramionami.
 
-– Albo GOLEM ma rację. Albo nie potrafi wyjść poza swoje cybernetyczne ramy, żeby zrozumieć coś tak ludzkiego jak dotyk. – Spojrzał na Camusa. – Ale nie wiem, jak by to sprawdzić.
-
+– Albo GOLLEM ma rację. Albo nie potrafi wyjść poza swoje cybernetyczne ramy, żeby zrozumieć coś tak ludzkiego jak dotyk. – Spojrzał na Camusa. – Ale nie wiem, jak by to sprawdzić.
 
 ### – Co jeśli pytanie o sens jest efektem struktury, nie reakcją na świat?
 
@@ -918,11 +899,11 @@ Camus usiadł na betonowym progu. Skrzywił się, jakby usiadł na czymś zbyt t
 
 Lem nie odpowiedział. Wyciągnął terminal i rzucił bez patrzenia:
 
-– GOLEM. Czy pytanie o sens może być funkcją nadmiaru zasobów poznawczych w systemie nieposiadającym wbudowanego celu?
+– GOLLEM. Czy pytanie o sens może być funkcją nadmiaru zasobów poznawczych w systemie nieposiadającym wbudowanego celu?
 
 Cisza. Potem odpowiedź:
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 
 > Nie wszystkie systemy pytają.
 > Tylko te, które nie mają zewnętrznej funkcji sterującej i jednocześnie zdolność do symulacji przyszłych stanów przy braku danych.
@@ -956,9 +937,9 @@ Camus długo patrzył w ciemniejące niebo.
 
 – Nie umiemy go _zatrzymać_. Zawsze gdzieś się rozpływa. Zawsze trzeba nowego.
 
-GOLEM włączył się sam.
+GOLLEM włączył się sam.
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 
 > Sens: tymczasowa stabilizacja trajektorii poznawczej w systemie bez celu nadrzędnego.
 >
@@ -976,8 +957,7 @@ Papieros wypalił się do połowy. Zza rogu dobiegł głos kobiety szukającej k
 
 Lem milczał.
 
-GOLEM się nie odezwał.
-
+GOLLEM się nie odezwał.
 
 ### Co jeśli każda "prawda" to tylko stabilna konfiguracja lokalnego systemu?
 
@@ -1025,7 +1005,7 @@ Camus zaciągnął się papierosem.
 
 Terminal w kieszeni Lema zaświecił się sam.
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 Równość i nierówność to operatory logiczne w danym systemie formalnym.
 
 Systemy mogą być nieizomorficzne i jednocześnie równie skuteczne operacyjnie w swoich lokalnych domenach.
@@ -1044,9 +1024,9 @@ Camus spojrzał na ekran.
 
 – Może mają inne wskaźniki stabilności. Inne błędy, inne cele.
 
-GOLEM zamrugał ponownie.
+GOLLEM zamrugał ponownie.
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 Astrologia działa. Stabilizuje poznawczo-systemową strukturę w populacjach o wysokim poziomie niepewności egzystencjalnej.
 
 Matematyka działa. Stabilizuje systemy operacyjne w populacjach o wysokim współczynniku technologicznej integracji.
@@ -1065,13 +1045,12 @@ Camus wyjął kolejnego papierosa, ale nie zapalił. Wpatrywał się w filtr.
 
 – To i tak będziemy ją tłumaczyć na nasze. I to, czego nie da się przetłumaczyć, uznamy za nonsens.
 
-GOLEM odpowiedział natychmiast:
+GOLLEM odpowiedział natychmiast:
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 Masz absolutną rację.
 
 Motorniczy zgasił papierosa i wrócił do tramwaju. Maszyna znów ruszyła — sama, cicho, jakby znała tor.
-
 
 ### – Co jeśli nie ma „zewnątrz”, do którego można uciec?
 
@@ -1095,9 +1074,9 @@ Camus pokręcił głową.
 
 – Możesz próbować opisać kernel z wnętrza kernela. Ale to będzie kernelowy opis kernela. Nie "wyjście". Emulacja wyjścia.
 
-GOLEM odezwał się sam, bez wezwania.
+GOLLEM odezwał się sam, bez wezwania.
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 
 > Wszystkie operacje poznawcze w systemie zachodzą w jego przestrzeni dostępnej.
 >
@@ -1129,9 +1108,9 @@ Lem spojrzał na niego spod oka.
 
 – Nic. Ale może zamiast próbować się wydostać, można nauczyć się rozpoznawać wzór. Zobaczyć, jak wyglądają ściany.
 
-GOLEM się odezwał. Tym razem cicho, jakby na marginesie.
+GOLLEM się odezwał. Tym razem cicho, jakby na marginesie.
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 
 > Meta-poziomy są również elementami systemu.
 >
@@ -1151,8 +1130,7 @@ Lem wzruszył ramionami.
 
 – Albo to kolejna animacja.
 
-Camus milczał. GOLEM się nie odezwał. Tym razem naprawdę nie.
-
+Camus milczał. GOLLEM się nie odezwał. Tym razem naprawdę nie.
 
 ### – Co jeśli te pytania też są tylko funkcją następnej bańki?
 
@@ -1178,9 +1156,9 @@ Camus uśmiechnął się krótko.
 
 – Meta-gest jako iluzja transcendencji – mruknął Lem. – Przewidziany zwrot. Sterowana rewolta.
 
-GOLEM odezwał się natychmiast.
+GOLLEM odezwał się natychmiast.
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 Pytania o system są produktami systemu.Funkcja „autoanalizy” nie jest narzędziem wyjścia, lecz procedurą optymalizacji adaptacyjnej. Meta-poziomy zwiększają złożoność wewnętrzną, ale nie prowadzą do zewnętrza. Bańka może rozpoznać, że jest bańką. To nie zmienia jej topologii.
 
 Camus spojrzał na wodę.
@@ -1197,9 +1175,9 @@ Camus zanurzył palec w wodzie. Kręgi rozchodziły się długo, jakby z opóźn
 
 – To brzmi jak religia. Tylko bez Boga – powiedział Camus. – Tylko z samonakładającymi się lustrami.
 
-GOLEM wtrącił się, chłodno i beznamiętnie:
+GOLLEM wtrącił się, chłodno i beznamiętnie:
 
-**GOLEM XIV:**
+**GOLLEM XIV:**
 Meta-nihilizm: system epistemiczny, w którym niemożność poznania staje się dominującym operatorem poznawczym. Nie prowadzi do rozwiązania. Stabilizuje się w pętli: „Niemożność wiedzy jako jedyna wiedza pewna”. Heurystyka końcowa: zawieszenie aktywności lub przejście do działania arbitralnego.
 
 Camus wypuścił powietrze nosem.
@@ -1216,4 +1194,4 @@ Lem milczał. Wreszcie powiedział:
 
 – Piszę dalej.
 
-GOLEM się nie odezwał.
+GOLLEM się nie odezwał.

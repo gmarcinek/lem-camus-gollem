@@ -31,7 +31,7 @@ A może właśnie na tym mogłaby się opierać jakaś teoretyczna transcendencj
 
 - **Lem:** Sprawdza swoje długoletnie intuicje z Camusem. Nie naucza, ale **testuje hipotezy**
 - **Camus:** Wprowadza **egzystencjalny test** do każdego pytania. "Co to znaczy dla życia?"
-- **GOLEM:** Na tym poziomie może być **bardziej zaangażowany** - te pytania go interesują. Może sam **inicjować wątki**
+- **GOLLEM:** Na tym poziomie może być **bardziej zaangażowany** - te pytania go interesują. Może sam **inicjować wątki**
 
 ### Kluczowe momenty:
 

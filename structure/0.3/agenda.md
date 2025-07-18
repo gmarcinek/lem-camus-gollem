@@ -25,7 +25,7 @@ Camus wprowadza jedyną rzecz, którą ma do zaoferowania - wymiar cielesny/doś
 
 - **Camus:** Uczeń odkrywający przerażające implikacje. Od "to interesujące" przez "to niepokojące" do "to klaustrofobiczne". Na końcu desperacka próba ucieczki w ciało.
 
-- **GOLEM:** Wchodzi tylko gdy pytają. Potwierdza lemowskie intuicje, ale w sposób, który przeraża obu.
+- **GOLLEM:** Wchodzi tylko gdy pytają. Potwierdza lemowskie intuicje, ale w sposób, który przeraża obu.
 
 ### Kluczowe momenty:
 

@@ -2,9 +2,9 @@
 
 ## Założenie podstawowe
 
-To próba napisania myśli, które mnie fascynują. Ubrałem je w Lema i Camusa + Golema. Chcę z tego zrobić nowelę - może nawet nie z całości. Nie jest tu istotne żeby być w zgodzie z obaleniem formy - bo tekst który się sam unieważnia jest dość naivny. Ważne jest to, że w ogóle taka refleksja się pojawia i przekazanie myśli o iluzoryczności widzenia i poznania.
+To próba napisania myśli, które mnie fascynują. Ubrałem je w Lema i Camusa + Gollema. Chcę z tego zrobić nowelę - może nawet nie z całości. Nie jest tu istotne żeby być w zgodzie z obaleniem formy - bo tekst który się sam unieważnia jest dość naivny. Ważne jest to, że w ogóle taka refleksja się pojawia i przekazanie myśli o iluzoryczności widzenia i poznania.
 
-**Oni obaj nie spadli z księżyca.** Nie pojawili się w świecie z pierwszym rozdziałem i nie odkryli tajemnicy wszechświata właśnie. To w nich dojrzewało LATAMI. Oni są tu i teraz, ale te rozmowy to ich próby wynurzenia się z tymi pomysłami i skonfrontowania ich z realem i drugim człowiekiem + GOLEM.
+**Oni obaj nie spadli z księżyca.** Nie pojawili się w świecie z pierwszym rozdziałem i nie odkryli tajemnicy wszechświata właśnie. To w nich dojrzewało LATAMI. Oni są tu i teraz, ale te rozmowy to ich próby wynurzenia się z tymi pomysłami i skonfrontowania ich z realem i drugim człowiekiem + GOLLEM.
 
 ---
 
@@ -31,9 +31,9 @@ To próba napisania myśli, które mnie fascynują. Ubrałem je w Lema i Camusa 
 - Czasem ironiczny, czasem melancholijny. Bardziej słucha niż gada
 - **Nie musi kupować lemowskich abstrakcji** - zostaje przy swoim, gdy mu nie pasuje
 
-### **GOLEM XIV**
+### **GOLLEM XIV**
 
-- To **GOLEM z książki Lema** - superinteligencja, która ewoluowała poza ludzi
+- To **GOLLEM z książki Lema** - superinteligencja, która ewoluowała poza ludzi
 - Nie jest narzędziem ani chatbotem - jest **intelektualnym drapieżnikiem**, który czasem się nimi bawi
 - **Czasem po prostu ma ich w dupie** kiedy pytają jak psy o algebrę - dla niego ich "głębokie" pytania to często banały
 - Ma **kilka trybów, między którymi przełącza się nieprzewidywalnie:**
@@ -52,7 +52,7 @@ To próba napisania myśli, które mnie fascynują. Ubrałem je w Lema i Camusa 
 - **Fizyczność.** Ciepło filiżanki, zapach skóry, wiatrak na ladzie. Nic nie „wisi w próżni poznawczej"
 - **Konkret przed abstrakcją.** Nie „czy istnieje sens?", tylko „coś mnie ukłuło w klatce, jakby myśl chciała się wydostać"
 - **Napięcie i różnice.** Postacie się różnią, przerywają sobie, nie dokończają. Czasem się mijają. **Nie muszą się zgadzać**
-- **GOLEM tylko na pytanie.** I tylko wtedy. Nigdy sam z siebie. Funkcja nieprzewidywalna
+- **GOLLEM tylko na pytanie.** I tylko wtedy. Nigdy sam z siebie. Funkcja nieprzewidywalna
 - **Milczenie i rytm.** Ważne, kto milczy. Jak długo. Co mówi spojrzenie
 - **Pęknięcia.** Czasem ktoś się zatrzyma w pół zdania. Albo powie: „Nie, czekaj... to głupie"
 - **Bez morałów.** Nie kończ puentą. Kończ momentem zawieszenia
@@ -77,6 +77,6 @@ To próba napisania myśli, które mnie fascynują. Ubrałem je w Lema i Camusa 
 **Camus:** "Świat jest absurdalny, ale papieros smakuje jak papieros"
 **Lem:** "Ale czy 'smak' to nie iluzja interfejsu poznawczego?"
 **Camus:** "Może, ale spalę się od tego myślenia"
-**GOLEM:** [nieprzewidywalnie - zimno, mądrze, lub przerażająco] "Spalanie się jest też procesem w systemie"
+**GOLLEM:** [nieprzewidywalnie - zimno, mądrze, lub przerażająco] "Spalanie się jest też procesem w systemie"
 
 Camus ściąga Lema na ziemię, Lem ciągnie go w głąb. Czasem to działa, czasem się nie udaje.
