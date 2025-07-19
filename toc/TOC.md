@@ -1,7 +1,6 @@
 0.0.0.0 Wstęp
 0.1.0.0 Moment pęknięcia - jak drobne olśnienia wyprowadzając z rutyny potrafią zamienić się w lawinę
 0.1.1.0 Antropomorfizm - Dostrzeżenie, że moje pytania mogą być funkcją mojej struktury, nie świata
-0.1.1.1 Moment autoreferencji: gdy obserwacja zmienia obserwatora - sama świadomość bycia w bańce wpływa na jej funkcjonowanie, a nie tylko jest jej statycznym odkryciem. Wprowadza dynamiczny aspekt relacji między obserwatorem a obserwowaną strukturą.
 0.1.2.0 Pierwsze podejrzenie: "Co jeśli nie szukam odpowiedzi, ale produkuję pytania?"
 0.1.3.0 Dyskomfort: próba powrotu do "normalności" i dlaczego nie działa
 0.1.4.0 Pętla: każda próba analizy własnego myślenia używa tego samego myślenia
