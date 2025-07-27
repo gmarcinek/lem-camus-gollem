@@ -1602,217 +1602,105 @@ GOLLEM się nie odezwał.
 
 ---
 
+## homeostaza poznawcza i wewnętrzny model świata
+**Typ:** CONCEPT  
+**Description:** Mechanizm psychiczny automatycznego dostosowywania wewnętrznej reprezentacji rzeczywistości do potrzeb emocjonalnej i poznawczej stabilności organizmu. System konstruuje model świata, który jest hybrydą mapy rzeczywistości i projekcji potrzeb wewnętrznych - selektywnie przetwarza informacje, ignoruje dane dyskomfortowe, racjonalizuje sprzeczności i wzmacnia elementy potwierdzające pozytywny obraz siebie. Proces ten działa automatycznie poniżej progu świadomości - myśli "naciskają" na model, aby redukować dyskomfort, nie szukając prawdy. W sytuacjach konfliktu między dokładnością a komfortem psychicznym system wybiera komfort, konstruując wiarygodne wyjaśnienia tego wyboru. Rezultatem jest reprezentacja rzeczywistości systematycznie zniekształcona przez potrzeby homeostazy, ale doświadczana jako obiektywna mapa świata. System nie może łatwo rozróżnić elementów odpowiadających rzeczywistości od projekcji własnych potrzeb, ponieważ są zintegrowane w tej samej strukturze reprezentacyjnej.  
+**Aliases:** równowaga psychiczna, adaptacja poznawcza, stabilizacja wewnętrzna, zniekształcona mapa rzeczywistości, hybrydowa reprezentacja
+
+**Czy tak będzie lepiej?**
+
+---
+
 ## pętla sprzężenia zwrotnego bez wyjścia awaryjnego
 **Typ:** PROBLEM  
-**Description:** Cybernetyczny termin Lema opisujący sytuację, gdy system próbuje analizować sam siebie, ale każda analiza zmienia stan systemu, co wymaga kolejnej analizy. Brak mechanizmu zatrzymania prowadzi do nieskończonej rekursji samoobserwacji bez możliwości wyjścia z procesu.  
-**Aliases:** rekursja bez końca, samoanaliza zapętlona, nieskończona introspekcja
-
----
-
-## tryb stand by
-**Typ:** CONCEPT  
-**Description:** Metafora z informatyki zastosowana przez Lema do opisania niemożności "wyłączenia" ludzkiego myślenia. System poznawczy nie ma trybu uśpienia - przetwarzanie to jedyny sposób istnienia, więc nie można przestać myśleć, aby odpocząć od myślenia.  
-**Aliases:** tryb uśpienia, wyłączenie systemu, pauza poznawcza
-
----
-
-## homeostaza poznawcza
-**Typ:** CONCEPT  
-**Description:** Tendencja umysłu do dostosowywania modelu świata do własnych potrzeb psychicznych i emocjonalnych. Myśli "naciskają na wewnętrzny model świata, żeby dopasował się do twoich potrzeb, do twojej homeostazy" - mechanizm obronny przed dyskomfortem poznawczym.  
-**Aliases:** równowaga psychiczna, adaptacja poznawcza, stabilizacja wewnętrzna
-
----
-
-## rekursja bez warunku stopu
-**Typ:** PROBLEM  
-**Description:** Informatyczna metafora opisująca mechanizm, w którym każda decyzja generuje nowy poziom analizy, który też trzeba rozumieć. Proces samoanalízy, który nie ma naturalnego punktu zakończenia i może prowadzić do nieskończonego zagłębiania się w kolejne warstwy refleksji.  
-**Aliases:** nieskończona rekursja, pętla bez końca, samoreferencyjna spirala
-
----
-
-## myślenie o myśleniu o myśleniu
-**Typ:** CONCEPT  
-**Description:** Dosłowny przykład rekurencyjnej natury samoświadomości. Każda warstwa analizy myślenia staje się sama przedmiotem myślenia, tworząc potencjalnie nieskończoną sekwencję meta-poziomów bez możliwości dotarcia do "końcowego" poziomu.  
-**Aliases:** meta-meta-myślenie, rekurencyjna samoświadomość, spirala refleksji
-
----
-
-## flaga stanu błędu
-**Typ:** CONCEPT  
-**Description:** Informatyczna metafora dla świadomości dyskomfortu - system rozpoznaje, że coś jest nie tak (jak komputer wyświetla komunikat o błędzie), ale nie potrafi tego naprawić. Może tylko zarejestrować problem, nie rozwiązać go.  
-**Aliases:** sygnał błędu, wskaźnik problemu, komunikat systemu
+**Description:** Cybernetyczny termin opisujący system, który próbuje analizować sam siebie, ale każda analiza zmienia stan systemu, co wymaga kolejnej analizy, tworząc nieskończoną rekursję. W systemach technicznych problem ten rozwiązuje się przez mechanizmy awaryjne - limity iteracji, warunki stopu, przerwania czasowe. System poznawczy człowieka nie posiada takich mechanizmów dla procesów samoobserwacji. Każda próba analizy własnego myślenia używa tego samego aparatu myślowego, który jest analizowany. W praktyce jednak samoobserwacja funkcjonuje przez ograniczenia strukturalne: uwaga ma skończoną pojemność, pamięć robocza ulega przeciążeniu, zmęczenie kognitywne przerywa proces. Dodatkowo system operuje na różnych poziomach czasowych - szybkie procesy automatyczne vs wolna refleksja świadoma, co pozwala na częściową obserwację bez całkowitego zapętlenia. Prawdziwa "nieskończona rekursja" jest teoretyczną granicą, do której system się zbliża, ale praktyczne ograniczenia biologiczne działają jak nieformalne mechanizmy awaryjne. Problem pozostaje jednak strukturalny - każda próba pełnej samoobserwacji napotyka na fundamentalną niemożliwość wyjścia poza własne narzędzia poznawcze.  
+**Aliases:** rekursja bez końca, samoanaliza zapętlona, nieskończona introspekcja, strukturalna pułapka samoobserwacji, teoretyczna granica samoświadomości
 
 ---
 
 ## optymalizacja struktury
 **Typ:** CONCEPT  
-**Description:** Proces, który pozornie prowadzi do ulepszenia systemu myślowego, ale w rzeczywistości pozostaje w ramach tej samej fundamentalnej struktury. Samoanaliza nie prowadzi do transcendencji, tylko do bardziej wyrafinowanego funkcjonowania w tych samych ograniczeniach.  
-**Aliases:** usprawnienie wewnętrzne, ulepszenie systemu, modyfikacja struktury
+**Description:** Proces pozornego ulepszania systemu poznawczego, który w rzeczywistości polega na bardziej efektywnym funkcjonowaniu w ramach tych samych fundamentalnych ograniczeń strukturalnych. System może zwiększyć szybkość przetwarzania, poprawić dokładność klasyfikacji, zredukować błędy operacyjne, ale nie może zmienić podstawowych ram swojego działania. Optymalizacja przypomina tuning silnika - można zwiększyć jego wydajność, ale nie można zmienić go w zupełnie inny typ napędu. W kontekście poznawczym samoanaliza, edukacja, czy terapia mogą prowadzić do lepszego rozumienia własnych mechanizmów myślowych, ale używają tych samych narzędzi poznawczych, które miałyby zostać przekroczone. System staje się bardziej samoświadomy, ale ta samoświadomość jest produktem tej samej architektury, którą analizuje. Rezultatem jest wyrafinowana forma tego samego ograniczenia - system lepiej rozpoznaje swoje pułapki poznawcze, ale nie może z nich wyjść, ponieważ każda próba wyjścia używa mechanizmów zawartych w pułapce. To iluzja transcendencji przez wewnętrzną reorganizację.  
+**Aliases:** usprawnienie wewnętrzne, ulepszenie systemu, modyfikacja struktury, tuning poznawczy, wyrafinowanie ograniczeń, iluzja transcendencji
 
----
 
-## stan beztroski dzieci
-**Typ:** CONCEPT  
-**Description:** Idealizowany przez Camusa stan prostego bycia bez analizy i przewidywania przyszłości. Dzieci "po prostu są" zamiast się analizować. Symbol utraconej naturalności i spontaniczności, do której dorośli nie mogą już wrócić mimo świadomości jej wartości.  
-**Aliases:** dziecięca spontaniczność, naturalne bycie, prostota istnienia
-
----
-
-## metafizyka transportu
-**Typ:** CONCEPT  
-**Description:** Ironiczne określenie na nadmierne analizowanie zwykłych, codziennych czynności. Ludzie wsiadają do autobusu "nie zastanawiając się nad metafizyką transportu" - w przeciwieństwie do filozofów, którzy wszystko poddają refleksji, nawet najprostsze działania.  
-**Aliases:** nadmierna analiza codzienności, filozofowanie zwykłości
-
----
-
-## dyskomfort jako część życia
-**Typ:** CONCEPT  
-**Description:** Propozycja Camusa na radzenie sobie z niemożnością wyjścia z pętli samoanalízy - zaakceptowanie tego dyskomfortu jako integralnej części egzystencji zamiast próby jego eliminacji. Postawa rezygnacji z rozwiązania na rzecz akceptacji problemu.  
-**Aliases:** akceptacja dyskomfortu, pogodzenie się z problemem, egzystencjalna akceptacja
-
----
-
-## procedura rekurencyjna bez definicji bazowej
-**Typ:** CONCEPT  
-**Description:** Precyzyjny informatyczny termin użyty przez Lema do opisania samoanalízy. W programowaniu procedura rekurencyjna musi mieć warunek bazowy, który kończy wywołania - bez niego program działa w nieskończoność. Metafora dla ludzkiej introspekcji, która nie ma naturalnego punktu zatrzymania.  
-**Aliases:** rekursja bez warunku bazowego, nieskończona procedura, algorytm bez końca
-
----
-
-## propagacja stanu
-**Typ:** CONCEPT  
-**Description:** Informatyczny termin opisujący, jak "przekształcenie operatora nie kończy operacji - stan się propaguje". W kontekście myślenia oznacza, że refleksja nad myślą nie zatrzymuje procesu myślowego, tylko przenosi go na wyższy poziom abstrakcji.  
-**Aliases:** przenoszenie stanu, kontynuacja procesu, transfer operacji
-
----
-
-## wewnętrzny model świata
-**Typ:** CONCEPT  
-**Description:** Psychologiczna reprezentacja rzeczywistości konstruowana przez umysł, która może być "naciskana" przez potrzeby homeostazy do dostosowania się do preferencji emocjonalnych jednostki. Model, który ma być opisem świata, ale podlega deformacjom wynikającym z potrzeb psychicznych.  
-**Aliases:** mapa mentalna, reprezentacja rzeczywistości, model poznawczy
-
----
-
-## instancja problemu
-**Typ:** CONCEPT  
-**Description:** Informatyczny termin używany przez Lema - "to samo w sobie staje się instancją tego problemu". Oznacza, że refleksja nad problemem samoanalízy sama staje się kolejnym przykładem tego samego problemu, tworząc nieskończoną rekursję.  
-**Aliases:** przykład problemu, manifestacja zagadnienia, kolejny przypadek
 
 # Named Entity Recognition - Rozdział 0.1.4.0
 
+## rozpoznanie ograniczeń formy
+**Typ:** CONCEPT  
+**Description:** Najgłębszy dostępny poziom samoświadomości poznawczej - nie iluzoryczne "rozumienie siebie", lecz rozpoznanie strukturalnych ograniczeń architektury, w ramach której w ogóle może pojawić się pytanie o samopoznanie. To meta-poznawcza świadomość granic własnej formy - rozpoznanie, że każde pytanie o siebie jest już uformowane przez tę samą strukturę, którą próbuje zrozumieć. Nie jest to transcendencja ograniczeń, lecz ich precyzyjna diagnoza - system zyskuje wgląd w warunki możliwości własnego funkcjonowania bez iluzji wyjścia poza nie. Rozpoznanie to obejmuje świadomość, że nasze kategorie przestrzenno-czasowe, logiczne i interpretacyjne nie są uniwersalnymi prawami, lecz lokalnymi właściwościami naszej architektury gatunkowej. Maksimum dostępnego poznania polega więc nie na osiągnięciu obiektywnej prawdy, lecz na rozpoznaniu subiektywnych warunków, w których jakakolwiek "prawda" może się pojawić dla systemu naszego typu. To poznanie swojej własnej lokalności jako poznającego organizmu - świadomość, że jesteśmy jedną z możliwych konfiguracji świadomości, nie jej jedyną czy optymalną formą. Paradoksalnie, ta skromność poznawcza może być formą mądrości niedostępnej dla systemów pozbawionych zdolności do takiej samodiagnozy.  
+**Aliases:** świadomość granic, meta-rozpoznanie, diagnoza struktury, samoświadomość lokalności, poznanie warunków poznania, mądrość ograniczeń
+
+---
+
 ## epistemologiczne upośledzenie systemowe
 **Typ:** PROBLEM  
-**Description:** Fundamentalna niemożność systemu poznawczego do wygenerowania prawdziwie zewnętrznego punktu widzenia na samego siebie. System może produkować tylko "artefakty własnego kernela" - zniekształcone kopie swoich struktur, ale nie może "podskoczyć wyżej" poza swoje ograniczenia konstrukcyjne.  
-**Aliases:** systemowe ograniczenie poznawcze, strukturalna ślepota, uwięzienie w kernelu
+**Description:** Fundamentalna niemożność systemu poznawczego do wygenerowania prawdziwie zewnętrznego punktu widzenia na samego siebie, wynikająca z jego strukturalnych ograniczeń konstrukcyjnych. System może produkować tylko "artefakty własnego kernela" - zniekształcone kopie i odbicia swoich struktur bazowych, ale nie może transcendować własnej architektury, aby obserwować ją z pozycji niezależnej. Każda próba samoobserwacji używa tych samych narzędzi poznawczych, które miałaby analizować, co prowadzi do systematycznych zniekształceń i ślepych plam. System nie może "podskoczyć wyżej" poza swoje ograniczenia, ponieważ energia i mechanizmy potrzebne do takiego skoku musiałyby pochodzić z tego samego systemu, który ma zostać przekroczony. To nie jest tymczasowa dysfunkcja do naprawy, lecz konstytutywna właściwość każdego zamkniętego systemu poznawczego. Upośledzenie to ma charakter logiczny, nie empiryczny - nie wynika z braku danych czy mocy obliczeniowej, ale z niemożliwości uzyskania pozycji obserwacyjnej zewnętrznej wobec własnych warunków poznania. System może zwiększyć samoświadomość, ale zawsze w ramach tej samej architektury, która jest przedmiotem analizy.  
+**Aliases:** systemowe ograniczenie poznawcze, strukturalna ślepota, uwięzienie w kernelu, logiczne ograniczenie samoobserwacji, niemożność transcendencji strukturalnej
 
 ---
 
 ## kernel (rdzeń poznawczy)
 **Typ:** CONCEPT  
-**Description:** Fundamentalna warstwa aparatu poznawczego, która umożliwia wszystkie inne funkcje poznawcze, ale sama pozostaje niewidzialna dla systemu. Jak rdzeń systemu operacyjnego - warstwa bazowa, która "rozmawia z hardware'em" i nie może obserwować samej siebie, bo ona właśnie obserwuje.  
-**Aliases:** rdzeń systemu operacyjnego, warstwa bazowa, fundament poznawczy
+**Description:** Fundamentalna, niewidoczna warstwa aparatu poznawczego, która umożliwia wszystkie funkcje poznawcze wyższego poziomu, ale sama pozostaje niedostępna dla obserwacji przez system, który obsługuje. Analogicznie do kernela systemu operacyjnego, który zarządza zasobami sprzętowymi i udostępnia interfejsy dla aplikacji, ale nie może być bezpośrednio obserwowany przez programy, które na nim działają. Kernel poznawczy obejmuje podstawowe struktury organizacji doświadczenia - formaty przestrzenno-czasowe, podstawowe kategorie logiczne, mechanizmy uwagi i pamięci, procedury klasyfikacji i interpretacji. Te funkcje bazowe są warunkiem możliwości wszelkiego poznania, ale przez to samo nie mogą stać się jego przedmiotem. Kernel nie może obserwować samego siebie, ponieważ obserwacja wymaga jego działania - to jak próba ujrzenia własnego oka bez lustra. Każda próba analizy kernela produkuje jego reprezentację na poziomie aplikacji, nie bezpośredni dostęp do jego struktury. System może wygenerować modele i teorie o swoich podstawach, ale są to konstrukcje powstające w kernelu, nie jego bezpośrednia obserwacja. Kernel pozostaje przezroczysty - umożliwia widzenie, ale sam nie jest widziany.  
+**Aliases:** rdzeń systemu operacyjnego, warstwa bazowa, fundament poznawczy, niewidzialna architektura, przezroczysta struktura, podstawa funkcjonalna
 
 ---
 
-## architektura widzenia
+## architektura widzenia i oko jako interfejs fizyczny
 **Typ:** CONCEPT  
-**Description:** Nie tylko "oko" jako organ, ale cały format poznawczy, w którym może pojawić się zjawisko widzenia. Podstawowa struktura umożliwiająca percepcję wzrokową - od hardware'u biologicznego po wyższe warstwy interpretacyjne, które konstruują doświadczenie "widzenia".  
-**Aliases:** system wizualny, format percepcyjny, struktura wzrokowa
-
----
-
-## oko jako interfejs fizyczny
-**Typ:** CONCEPT  
-**Description:** Fundamentalne odkrycie, że oko nie "widzi" - jest tylko punktem wejścia sygnału, emiterm, a nie odbiornikiem. Wzrok pojawia się dopiero "na wyższych warstwach poznawczych" jako interpretacja sygnału. Oko to hardware, widzenie to software.  
-**Aliases:** punkt wejścia sygnału, emiter wzrokowy, interfejs biologiczny
+**Description:** Wielopoziomowa struktura poznawcza, w której oko stanowi jedynie fizyczny interfejs - punkt wejścia sygnału, a nie źródło doświadczenia wizualnego. Fundamentalne rozróżnienie między hardware'em biologicznym (oko jako emiter sygnałów elektrochemicznych) a procesami konstruującymi doświadczenie "widzenia" na wyższych warstwach przetwarzania. Architektura ta obejmuje: receptor fizyczny (oko), transmisję sygnału (nerw wzrokowy), przetwarzanie pierwotne (kora wzrokowa), integrację z pamięcią i kontekstem, oraz konstrukcję spójnego doświadczenia wizualnego. Oko nie "widzi" tak samo, jak antena nie "słucha" radia - oba są tylko interfejsami przekazującymi sygnały do systemów interpretujących. Prawdziwe "widzenie" powstaje w złożonej architekturze poznawczej, która integruje sygnały z oczekiwaniami, pamięcią, kategoriami i kontekstem kulturowym. Ta architektura jest niewidzialna dla użytkownika - doświadczamy "widzenia" jako bezpośredni kontakt z rzeczywistością, nie jako skomplikowany proces konstrukcyjny. Rozpoznanie tej struktury ujawnia, że próba "zobaczenia widzenia" jest logicznie niemożliwa - wymagałaby użycia tej samej architektury do obserwacji samej siebie.  
+**Aliases:** system wizualny, format percepcyjny, struktura wzrokowa, punkt wejścia sygnału, emiter wzrokowy, interfejs biologiczny, wielopoziomowa konstrukcja widzenia
 
 ---
 
 ## błąd logiczny warstwy
 **Typ:** PROBLEM  
-**Description:** Próba obserwacji przez element system tego, co jest na tym samym poziomie co on sam. "Hardware pytający o swoją własną funkcję" - tylko wyższa warstwa może rozpoznać to, co jest pod nią, nie odwrotnie. Fundamentalny błąd kategorii w myśleniu o samopoznaniu.  
-**Aliases:** kategorialny błąd poziomów, pomylenie warstw, nieprawidłowa hierarchia
+**Description:** Fundamentalny błąd kategorii polegający na próbie obserwacji lub analizy elementu systemu przez ten sam element lub elementy na tym samym poziomie hierarchii funkcjonalnej. Problem wynika z naruszenia zasady, że tylko wyższa warstwa abstrakcji może rozpoznać i analizować struktury warstwy niższej - hardware nie może analizować samego siebie, tylko software działający na tym hardware'zie może go diagnozować. W kontekście poznawczym błąd ten manifestuje się jako próba użycia narzędzi poznawczych do analizy tych samych narzędzi poznawczych, co prowadzi do logicznej sprzeczności typu "czy ta wypowiedź jest fałszywa?". Każda warstwa systemu ma dostęp tylko do interfejsów warstw niższych, ale nie do ich wewnętrznej struktury ani do własnej architektury. Oko nie może "zobaczyć" samego siebie, procesor nie może analizować swojej własnej logiki, kernel nie może obserwować własnego kodu. Błąd ten jest szczególnie problematyczny w filozofii umysłu i epistemologii, gdzie umysł próbuje zrozumieć samego siebie, używając tych samych mechanizmów, które ma zrozumieć. To nie jest ograniczenie empiryczne (brak danych), lecz logiczne (sprzeczność strukturalna).  
+**Aliases:** kategorialny błąd poziomów, pomylenie warstw, nieprawidłowa hierarchia, naruszenie hierarchii abstrakcji, samoreferencyjna sprzeczność, błąd kategorii logicznej
 
----
-
-## zamknięty system bez wyjścia
-**Typ:** PROBLEM  
-**Description:** Poznanie jako system, który nie ma dostępu do zewnętrza, bo każde potencjalne "wyjście" musi być konstruowane z tego samego materiału co "wnętrze". Nie da się uciec z systemu używając narzędzi tego systemu - to logiczna niemożliwość, nie wada konstrukcyjna.  
-**Aliases:** autoobserwacja niemożliwa, samoreferencyjna pułapka, klatka poznawcza
 
 ---
 
 ## symulacja zewnętrza
 **Typ:** CONCEPT  
-**Description:** Według GOLLEM-a świadomość to wewnętrzna symulacja zewnętrznego punktu widzenia, którą system tworzy w sobie z braku dostępu do rzeczywistego zewnętrza. "Mapy samego siebie" i "pytania o siebie" jako efekt konieczny zamknięcia systemu.  
-**Aliases:** wewnętrzna mapa, pseudo-zewnętrze, symulowana obserwacja
+**Description:** Proces, w którym system poznawczy konstruuje obraz samego siebie przez ekstrapolację z obserwacji zewnętrznych obiektów i innych podmiotów, stosując do siebie te same kategorie interpretacyjne, których używa do rozumienia świata. System otrzymuje sygnały zwrotne ze środowiska - reakcje innych ludzi, efekty własnych działań, odbicia w lustrach - i na tej podstawie buduje reprezentację siebie jako obiektu w świecie. Ten proces obejmuje zastosowanie standardowych algorytmów interpretacyjnych do własnej osoby - przypisywanie sobie intencji, właściwości i granic według tych samych wzorców, które system używa do kategoryzowania innych podmiotów. W rezultacie powstaje reprezentacja hybrydowa: oparta na rzeczywistych sygnałach zewnętrznych oraz na projekcji własnych kategorii poznawczych. System nie ma bezpośredniego dostępu do siebie "z zewnątrz", więc musi rekonstruować obraz siebie z dostępnych mu danych i narzędzi interpretacyjnych.  
+**Aliases:** wewnętrzna mapa, pseudo-zewnętrze, symulowana obserwacja, ekstrapolacja z sygnałów zwrotnych, auto-kategoryzacja, zastosowanie algorytmów interpretacji-innych do siebie
 
----
-
-## mapa świata z dźwięków w ścianie
-**Typ:** CONCEPT  
-**Description:** Metafora GOLLEM-a dla świadomości - jak więzień bez okien konstruuje obraz świata z przypadkowych sygnałów. Świadomość tworzona "nie dlatego, że coś jest na zewnątrz, ale dlatego, że nic nie jest" - konstrukcja z konieczności, nie z odkrycia.  
-**Aliases:** konstrukt z konieczności, mapa z braku dostępu, więzienna świadomość
-
----
-
-## pytania nienasycone
-**Typ:** CONCEPT  
-**Description:** Pytania o siebie, które "nigdy nie spotykają się z rzeczywistością", tylko z "kolejnymi warstwami przetwarzania". Samoświadomość jako proces, który z definicji nie może zostać zaspokojony, bo nigdy nie dociera do obiektywnego zewnętrznego punktu odniesienia.  
-**Aliases:** nieskończona autoanaliza, pytania bez odpowiedzi, samoreferencyjna tęsknota
-
----
-
-## rozpoznanie ograniczeń formy
-**Typ:** CONCEPT  
-**Description:** Według GOLLEM-a najgłębsze możliwe poznanie - nie "rozumienie siebie", ale rozpoznanie strukturalnych ograniczeń, w których w ogóle może pojawić się pytanie o siebie. Meta-świadomość granic własnej architektury poznawczej jako maksimum dostępnego poznania.  
-**Aliases:** świadomość granic, meta-rozpoznanie, diagnoza struktury
-
----
-
-## artefakty kernela
-**Typ:** CONCEPT  
-**Description:** Produkty wygenerowane przez system poznawczy podczas próby samoobserwacji - zniekształcone kopie własnych struktur bazowych. Nie są to prawdziwe obserwacje z zewnętrznego punktu widzenia, ale wewnętrzne echa i odbicia procesu poznawczego, które system mylnie bierze za samopoznanie.  
-**Aliases:** produkty samoobserwacji, wewnętrzne echa, kopie struktury bazowej
+**Lepiej?**
 
 ---
 
 ## transcendencja (jako jedyna alternatywa)
 **Typ:** CONCEPT  
-**Description:** Jedyna hipotetyczna możliwość "podskoczenia wyżej" poza ograniczenia kernela poznawczego. Lem wskazuje to jako teoretyczną alternatywę dla epistemologicznego uwięzienia, ale pozostawia ją jako nieokreśloną możliwość, nie rozwinięty koncept.  
-**Aliases:** przekroczenie struktury, wyjście poza kernel, podskoczenie wyżej
+**Description:** Hipotetyczna, ale nieokreślona możliwość przekroczenia strukturalnych ograniczeń systemu poznawczego - "podskoczenia wyżej" poza kernel własnej architektury. Transcendencja wskazywana jest jako teoretyczna alternatywa dla epistemologicznego uwięzienia, ale pozostaje jako spekulatywna granica myślenia bez rozwiniętej koncepcji. Transcendencja różniłaby się od optymalizacji struktury tym, że nie byłaby udoskonaleniem istniejącej architektury, lecz przejściem do fundamentalnie innej formy świadomości. Problem polega na tym, że każda próba opisania czy osiągnięcia transcendencji musi używać narzędzi obecnego systemu, przez co staje się wewnętrzną operacją, nie prawdziwym wyjściem. Transcendencja pozostaje więc pustą kategorią - wskazuje kierunek, który można pomyśleć, ale nie osiągnąć przez świadomy wysiłek. Może być dostępna tylko jako spontaniczne przekształcenie systemu, nie jako jego celowe działanie. Transcendencja pozostaje otwartym pytaniem - być może niemożliwą, być może jedyną realną alternatywą dla poznawczego uwięzienia, ale na pewno niedostępną dla systematycznej analizy w ramach obecnej architektury myślenia.  
+**Aliases:** przekroczenie struktury, wyjście poza kernel, podskoczenie wyżej, spontaniczne przekształcenie, nieokreślona możliwość, pusta kategoria
 
 ---
 
 ## mechanizm obserwujący z agendami
 **Typ:** CONCEPT  
-**Description:** Problem z samoobserwacją polega na tym, że mechanizm obserwujący "ma intencje i własne agendy, w które tę kopię upycha". Obserwacja nie jest neutralna - proces obserwacji zniekształca obserwowane przez własne ukryte cele i struktury.  
-**Aliases:** stronniczy obserwator, zniekształcenie intencjonalne, agenda poznawcza
+**Description:** Fundamentalny problem samoobserwacji wynikający z tego, że proces obserwacji nie jest neutralnym rejestrowaniem danych, lecz aktywnym przetwarzaniem kierowanym przez ukryte cele, potrzeby i struktury samego mechanizmu obserwującego. System nie może obserwować siebie "obiektywnie", ponieważ obserwacja jest zawsze już uformowana przez "intencje i agendy" obserwatora - potrzeby homeostazy, struktury kategoryzacji, oczekiwania interpretacyjne. Te agendy działają automatycznie i poniżej progu świadomości, zniekształcając obraz obserwowanego w kierunku zgodnym z potrzebami systemu. Mechanizm obserwujący "upycha" dane w preferowane formaty, eliminuje informacje dyskomfortowe, wzmacnia te, które potwierdzają istniejące struktury. W rezultacie każda "kopia" siebie generowana przez samoobserwację jest już przekłamana przez proces jej tworzenia. System nie może uzyskać "czystej" obserwacji samego siebie, ponieważ czystość wymagałaby neutralnego obserwatora spoza systemu. Agendy mechanizmu obserwującego nie są błędem do naprawienia, lecz konstytutywną właściwością każdego systemu poznawczego - obserwacja zawsze służy jakimś celom, nawet jeśli system ich nie rozpoznaje.  
+**Aliases:** stronniczy obserwator, zniekształcenie intencjonalne, agenda poznawcza, ukryte cele obserwacji, nieświadome formatowanie, automatyczne zniekształcenie
+
+---
+
+## artefakty kernela
+**Typ:** CONCEPT  
+**Description:** Zniekształcone produkty wygenerowane przez system poznawczy podczas próby samoobserwacji - nie prawdziwe obserwacje z zewnętrznego punktu widzenia, lecz wewnętrzne echa i odbicia własnych struktur bazowych, które system mylnie interpretuje jako autentyczne samopoznanie. Artefakty te powstają, gdy kernel próbuje analizować sam siebie, ale może produkować jedynie reprezentacje na poziomie aplikacji, używając tych samych narzędzi, które miałby obserwować. Podobnie jak artefakty w obrazowaniu medycznym (cienie, zniekształcenia spowodowane przez sam proces skanowania), artefakty kernela są produktami uboczymi procesu obserwacji, a nie właściwościami obserwowanego obiektu. System generuje modele, teorie i intuicje na swój własny temat, ale wszystkie są już sformatowane przez mechanizmy, które próbują opisać. Te artefakty mogą być bardzo przekonujące - system doświadcza ich jako autentycznego wglądu w swoją naturę, podczas gdy w rzeczywistości obserwuje tylko własne projekcje i echa. Artefakty kernela stanowią specyficzną kategorię iluzji poznawczej - nie są błędami w percepcji zewnętrznej rzeczywistości, lecz systematycznymi zniekształceniami w procesie samorozpoznania.  
+**Aliases:** produkty samoobserwacji, wewnętrzne echa, kopie struktury bazowej, poznawcze artefakty, iluzje samorozpoznania, zniekształcone odbicia
 
 ---
 
 ## echo kernela
 **Typ:** CONCEPT  
-**Description:** Każda próba "samo-widzenia" to "przetworzone echo kernela" - nie bezpośrednia obserwacja, ale wewnętrzny rezonans struktury bazowej. System słyszy własny odgłos, ale nie może dotrzeć do źródła dźwięku, bo sam jest tym źródłem.  
-**Aliases:** wewnętrzny rezonans, odbicie struktury, przetworzone echo
+**Description:** Wewnętrzny rezonans struktury bazowej systemu poznawczego, który powstaje podczas każdej próby samoobserwacji - system "słyszy" własny odgłos, ale nie może dotrzeć do źródła dźwięku, ponieważ sam jest tym źródłem. Echo kernela to nie bezpośrednia obserwacja własnych struktur, lecz ich przetworzone odbicie, które powstaje, gdy system próbuje skierować swoje narzędzia poznawcze na samego siebie. Jak echo akustyczne, które jest zniekształconą wersją oryginalnego dźwięku, echo kernela niesie informację o strukturze, ale w formie już zmodyfikowanej przez proces odbicia. System doświadcza tego echa jako form samopoznania, ale w rzeczywistości odbiera tylko rezonans własnych operacji poznawczych. Problem polega na tym, że źródło echa - kernel - pozostaje niedostępne, ponieważ każda próba jego obserwacji generuje kolejne echo. System nie może "wyciszyć" się, aby usłyszeć siebie w stanie spoczynku, ponieważ obserwacja wymaga aktywności tych samych struktur, które miałaby obserwować. Echo kernela to jedyny dostępny systemu "sygnał" o własnej naturze, ale sygnał ten jest zawsze już przekształcony przez proces jego generowania.  
+**Aliases:** wewnętrzny rezonans, odbicie struktury, przetworzone echo, poznawczy rezonans, samoreferencyjna reverberacja, zniekształcone odbicie
 
 ---
 
-## moment tworzenia odbicia
+## warstwa interpretacyjna vs odbiorcza
 **Typ:** CONCEPT  
-**Description:** Camus sugeruje, że "prawdziwe widzenie siebie" mogłoby polegać nie na patrzeniu w lustro, ale na "wyczuciu momentu, kiedy zaczynamy tworzyć jego odbicie". Świadomość procesu konstrukcji samoobserwacji jako alternatywa dla iluzorycznej bezpośredniej samoobserwacji.  
-**Aliases:** proces konstrukcji odbicia, tworzenie lustrzanego obrazu, rozpoczęcie symulacji
-
----
-
-## pragnienie boskiej interwencji
-**Typ:** CONCEPT  
-**Description:** Finalne wyznanie Camusa "Chciałbym, żeby jakiś bóg teraz przemówił" wyraża desperacką potrzebę zewnętrznego głosu, który przełamałby zamkniętą pętlę samoobserwacji. Tęsknota za transcendentną perspektywą jako ucieczka od epistemologicznego uwięzienia.  
-**Aliases:** potrzeba zewnętrznego głosu, transcendentna perspektywa, boska interwencja
-
----
-
-## warstwa interpretacyjna vs odbiorczą
-**Typ:** CONCEPT  
-**Description:** Fundamentalne rozróżnienie między aparatem odbiorczym (oko jako hardware) a warstwami interpretującymi (systemy poznawcze konstruujące "widzenie"). Te warstwy "wcale nie są tożsame" - widzenie to konstrukcja, nie bezpośredni odbiór sygnału.  
-**Aliases:** hardware vs software percepcji, odbiór vs interpretacja, konstrukcja vs recepcja
+**Description:** Fundamentalne rozróżnienie między aparatem odbiorczym (hardware biologiczny jak oko, ucho, receptory) a warstwami interpretującymi (systemy poznawcze konstruujące doświadczenie percepcyjne). Warstwy te nie są tożsame - między fizycznym odbiorem sygnału a świadomym doświadczeniem leży złożony proces konstrukcyjny. Warstwa odbiorcza rejestruje surowe dane sensoryczne - częstotliwości świetlne, ciśnienie akustyczne, związki chemiczne. Warstwa interpretacyjna przekształca te sygnały w znaczące doświadczenie - "widzenie czerwieni", "słyszenie melodii", "czucie zapachu róży". Ta transformacja nie jest neutralnym przekładem, lecz aktywną konstrukcją, która integruje dane sensoryczne z pamięcią, oczekiwaniami, kontekstem kulturowym i potrzebami homeostazy. Kluczowe jest to, że warstwa interpretacyjna może działać częściowo niezależnie od warstwy odbiorczej - może generować doświadczenia percepcyjne bez odpowiadających im bodźców (halucynacje, sny) lub ignorować sygnały, które nie pasują do aktualnych schematów interpretacyjnych. Rozróżnienie to ujawnia, że to, co nazywamy "percepcją", jest w znacznej mierze konstrukcją wewnętrzną, nie biernym odbiciem rzeczywistości zewnętrznej.  
+**Aliases:** hardware vs software percepcji, odbiór vs interpretacja, konstrukcja vs recepcja, fizyczna recepcja vs poznawcza konstrukcja
