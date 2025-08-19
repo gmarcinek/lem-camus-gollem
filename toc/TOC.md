@@ -5,7 +5,7 @@
 0.1.3.0 Dyskomfort: próba powrotu do "normalności" i dlaczego nie działa
 0.1.4.0 Pętla: każda próba analizy własnego myślenia używa tego samego myślenia
 
-0.2.0.0 Konflikty baniek w praktyce
+0.2.0.0 Absurd, bunt i nonsens
 0.2.1.0 Dlaczego ateista i wierzący nie mogą się dogadać - nie przez treść, ale przez format
 0.2.2.0 Konflikt nie o to "co jest prawdą", ale o to "jak się ustala prawdę"
 0.2.3.0 Każda bańka ma własny system walidacji - i wydaje się sobie oczywista
